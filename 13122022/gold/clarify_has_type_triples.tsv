@@ -1,0 +1,160 @@
+C0334451	has_type	Neoplastic Process
+C1518425	has_type	Qualitative Concept
+C3810371	has_type	Finding
+C0205616	has_type	Qualitative Concept
+C4544753	has_type	Therapeutic or Preventive Procedure
+C1182670	has_type	Qualitative Concept
+C2360132	has_type	Quantitative Concept
+C2360134	has_type	Quantitative Concept
+C0205195	has_type	Qualitative Concept
+C0475385	has_type	Classification
+C1540292	has_type	Gene or Genome
+C4511810	has_type	Therapeutic or Preventive Procedure
+C0445034	has_type	Finding
+C1537502	has_type	Gene or Genome
+C0202237	has_type	Laboratory Procedure
+C0396580	has_type	Therapeutic or Preventive Procedure
+C1448380	has_type	Pharmacologic Substance
+C1448380	has_type	Organic Chemical
+C0024203	has_type	Therapeutic or Preventive Procedure
+C0425297	has_type	Finding
+C0400436	has_type	Therapeutic or Preventive Procedure
+C0400435	has_type	Therapeutic or Preventive Procedure
+C0039988	has_type	Therapeutic or Preventive Procedure
+C0205615	has_type	Qualitative Concept
+C0153452	has_type	Neoplastic Process
+C0027912	has_type	Body System
+C0475383	has_type	Finding
+C0441962	has_type	Finding
+C1262477	has_type	Finding
+C0206623	has_type	Neoplastic Process
+C0018799	has_type	Disease or Syndrome
+C3260298	has_type	Clinical Attribute
+C0549184	has_type	Quantitative Concept
+C3830345	has_type	Finding
+C0004096	has_type	Disease or Syndrome
+C0475413	has_type	Finding
+C1414313	has_type	Gene or Genome
+C4511807	has_type	Therapeutic or Preventive Procedure
+C0948450	has_type	Patient or Disabled Group
+C0064635	has_type	Amino Acid, Peptide, or Protein
+C0064635	has_type	Biologically Active Substance
+C0004093	has_type	Sign or Symptom
+C0260514	has_type	Finding
+C0740457	has_type	Neoplastic Process
+C3830341	has_type	Clinical Attribute
+C1336190	has_type	Neoplastic Process
+C0205617	has_type	Qualitative Concept
+C2360138	has_type	Quantitative Concept
+C4511811	has_type	Therapeutic or Preventive Procedure
+C0022658	has_type	Disease or Syndrome
+C0278517	has_type	Neoplastic Process
+C0260515	has_type	Finding
+C0728711	has_type	Finding
+C0027567	has_type	Population Group
+C0025202	has_type	Neoplastic Process
+C0028754	has_type	Disease or Syndrome
+C0371456	has_type	Therapeutic or Preventive Procedure
+C0041296	has_type	Disease or Syndrome
+C0445085	has_type	Finding
+C0746125	has_type	Therapeutic or Preventive Procedure
+C0205618	has_type	Qualitative Concept
+C0205394	has_type	Qualitative Concept
+C2360130	has_type	Quantitative Concept
+C0376358	has_type	Neoplastic Process
+C0020538	has_type	Disease or Syndrome
+C2987624	has_type	Therapeutic or Preventive Procedure
+C0332377	has_type	Finding
+C0024117	has_type	Disease or Syndrome
+C0475371	has_type	Finding
+C0413365	has_type	Therapeutic or Preventive Procedure
+C0043157	has_type	Population Group
+C0205312	has_type	Qualitative Concept
+C0011849	has_type	Disease or Syndrome
+C1704272	has_type	Disease or Syndrome
+C1880198	has_type	Conceptual Entity
+C0521362	has_type	Spatial Concept
+C0439639	has_type	Spatial Concept
+C4281160	has_type	Finding
+C0746225	has_type	Therapeutic or Preventive Procedure
+C1947901	has_type	Pathologic Function
+C1336139	has_type	Neoplastic Process
+C0812281	has_type	Gene or Genome
+C0475288	has_type	Intellectual Product
+C1261473	has_type	Neoplastic Process
+C0332207	has_type	Spatial Concept
+C0396576	has_type	Therapeutic or Preventive Procedure
+C0252409	has_type	Enzyme
+C0252409	has_type	Amino Acid, Peptide, or Protein
+C0086287	has_type	Organism Attribute
+C0085533	has_type	Therapeutic or Preventive Procedure
+C0278996	has_type	Neoplastic Process
+C1336026	has_type	Neoplastic Process
+C3241966	has_type	Finding
+C4526715	has_type	Neoplastic Process
+C0078988	has_type	Population Group
+C0475386	has_type	Classification
+C2360136	has_type	Quantitative Concept
+C1336119	has_type	Neoplastic Process
+C0020443	has_type	Disease or Syndrome
+C3830343	has_type	Finding
+C0229473	has_type	Cell
+C0345904	has_type	Neoplastic Process
+C3830346	has_type	Finding
+C4526714	has_type	Neoplastic Process
+C0019158	has_type	Disease or Syndrome
+C0475388	has_type	Finding
+C0348374	has_type	Neoplastic Process
+C0475751	has_type	Finding
+C0278504	has_type	Neoplastic Process
+C0030193	has_type	Sign or Symptom
+C0475387	has_type	Finding
+C3178775	has_type	Therapeutic or Preventive Procedure
+C0010200	has_type	Sign or Symptom
+C0425298	has_type	Finding
+C0001418	has_type	Neoplastic Process
+C0348026	has_type	Functional Concept
+C3830342	has_type	Finding
+C0019079	has_type	Sign or Symptom
+C0086582	has_type	Organism Attribute
+C0678222	has_type	Neoplastic Process
+C0206704	has_type	Neoplastic Process
+C1513712	has_type	Qualitative Concept
+C2360140	has_type	Quantitative Concept
+C0023418	has_type	Neoplastic Process
+C3830344	has_type	Finding
+C0441959	has_type	Finding
+C0948315	has_type	Diagnostic Procedure
+C0948797	has_type	Therapeutic or Preventive Procedure
+C0205851	has_type	Neoplastic Process
+C4049711	has_type	Neoplastic Process
+C0520679	has_type	Disease or Syndrome
+C4528155	has_type	Age Group
+C0699893	has_type	Neoplastic Process
+C0024121	has_type	Neoplastic Process
+C1997353	has_type	Therapeutic or Preventive Procedure
+C1824685	has_type	Gene or Genome
+C0042373	has_type	Disease or Syndrome
+C0024299	has_type	Neoplastic Process
+C0001675	has_type	Age Group
+C2360142	has_type	Quantitative Concept
+C3839414	has_type	Therapeutic or Preventive Procedure
+C0441960	has_type	Finding
+C0001973	has_type	Mental or Behavioral Dysfunction
+C4511808	has_type	Therapeutic or Preventive Procedure
+C4281161	has_type	Finding
+C1290608	has_type	Congenital Abnormality
+C0699753	has_type	Neoplastic Process
+C0242339	has_type	Disease or Syndrome
+C0152463	has_type	Therapeutic or Preventive Procedure
+C4763675	has_type	Therapeutic or Preventive Procedure
+C0684249	has_type	Neoplastic Process
+C0175759	has_type	Diagnostic Procedure
+C0337668	has_type	Finding
+C0425309	has_type	Finding
+C0013404	has_type	Sign or Symptom
+C1705294	has_type	Qualitative Concept
+C2827748	has_type	Quantitative Concept
+C0231221	has_type	Finding
+C0023895	has_type	Disease or Syndrome
+C1336167	has_type	Neoplastic Process

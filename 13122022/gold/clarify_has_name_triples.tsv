@@ -1,0 +1,1862 @@
+C0334451	has_name	sarcomatosis
+C0334451	has_name	[m]sarcomatosis nos (morphologic abnormality)
+C0334451	has_name	[m]sarcomatosis nos
+C0334451	has_name	sarcomatosis, nos
+C0334451	has_name	sarcomatosis (morphologic abnormality)
+C1518425	has_name	nos
+C1518425	has_name	{nos}
+C1518425	has_name	not otherwise specified
+C1518425	has_name	not specified
+C3810371	has_name	ovarian cancer (rare)
+C0205616	has_name	moderately differentiated (qualifier value)
+C0205616	has_name	g2
+C0205616	has_name	moderately differentiated (grade) (qualifier value)
+C0205616	has_name	moderately differentiated
+C0205616	has_name	intermediate differentiation
+C0205616	has_name	moderately well differentiated
+C4544753	has_name	excision of middle lobe of right lung
+C4544753	has_name	lobectomy of right middle lobe of lung
+C4544753	has_name	excision of middle lobe of right lung (procedure)
+C1182670	has_name	squamous
+C2360132	has_name	total population of age 55-59y
+C2360134	has_name	total population of age 60-64y
+C0205195	has_name	combination
+C0205195	has_name	combined
+C0205195	has_name	combined (qualifier value)
+C0475385	has_name	t1b primary tumor finding
+C0475385	has_name	t1b
+C0475385	has_name	tumor stage t1b (finding)
+C0475385	has_name	t1b cancer stage finding
+C0475385	has_name	t1b tnm finding
+C0475385	has_name	t1b tumor stage
+C0475385	has_name	stage t1b
+C0475385	has_name	t1b primary tumor stage finding
+C0475385	has_name	t1b stage finding
+C0475385	has_name	tumor stage t1b (tumor staging)
+C0475385	has_name	t1b tumor finding
+C0475385	has_name	t1b stage
+C0475385	has_name	tumor stage t1b
+C0475385	has_name	tumour stage t1b
+C1540292	has_name	b7-h1
+C1540292	has_name	b7h1
+C1540292	has_name	cd274 gene
+C1540292	has_name	cd274 molecule gene
+C1540292	has_name	programmed death ligand 1
+C1540292	has_name	pdcd1lg1
+C1540292	has_name	pdcd1 ligand 1
+C1540292	has_name	cd274
+C1540292	has_name	b7 homolog 1
+C1540292	has_name	pdl1
+C1540292	has_name	cd274 molecule
+C1540292	has_name	b7-h
+C1540292	has_name	pd-l1
+C1540292	has_name	pdcd1l1
+C1540292	has_name	programmed cell death 1 ligand 1
+C4511810	has_name	lobectomy of upper lobe of left lung
+C4511810	has_name	lobectomy of upper lobe of left lung (procedure)
+C0445034	has_name	m0 stage finding
+C0445034	has_name	m0 distant metastasis finding
+C0445034	has_name	m0 metastasis finding
+C0445034	has_name	m0 stage (finding)
+C0445034	has_name	m0 cancer stage finding
+C0445034	has_name	m0
+C0445034	has_name	m0 metastasis stage
+C0445034	has_name	m0 distant metastasis stage finding
+C0445034	has_name	m0 tnm finding
+C0445034	has_name	m0 category (finding)
+C0445034	has_name	m0 stage (tumor staging)
+C0445034	has_name	metastasis stage m0
+C0445034	has_name	m0 category
+C0445034	has_name	m0 stage
+C0445034	has_name	metastasis stage m0 (tumor staging)
+C1537502	has_name	v-ki-ras1 pseudogene
+C1537502	has_name	rask2
+C1537502	has_name	k-ras gene
+C1537502	has_name	kras1
+C1537502	has_name	kras
+C1537502	has_name	c-kras
+C1537502	has_name	oncogene kras2
+C1537502	has_name	oncogene k-ras
+C1537502	has_name	oncogene kras1
+C1537502	has_name	k ras genes
+C1537502	has_name	kras proto-oncogene, gtpase gene
+C1537502	has_name	oncogene, k-ras-2
+C1537502	has_name	kirsten ras1
+C1537502	has_name	kirsten murine sarcoma virus 2
+C1537502	has_name	v-ki-ras2 kirsten rat sarcoma 2 viral oncogene homolog
+C1537502	has_name	kras proto-oncogene, gtpase
+C1537502	has_name	kras gene
+C1537502	has_name	oncogene, k-ras
+C1537502	has_name	rask1
+C1537502	has_name	kras2
+C1537502	has_name	ki-ras
+C1537502	has_name	kras1p
+C1537502	has_name	k-ras genes
+C1537502	has_name	v-ki-ras2 kirsten rat sarcoma viral oncogene homolog
+C0202237	has_name	tri-iodothyronine measurement, total (procedure)
+C0202237	has_name	tri-iodothyronine measurement, total
+C0202237	has_name	t3, total measurement
+C0202237	has_name	tri-iodothyronine (t3) level test
+C0202237	has_name	assay of triiodothyronine t3 total tt3
+C0202237	has_name	measurement of total triiodothyronine (tt-3)
+C0202237	has_name	triiodothyronine t3; total (tt-3)
+C0202237	has_name	assay triiodothyronine (t3)
+C0396580	has_name	bilobectomy of lung
+C0396580	has_name	bilobectomy of lung (procedure)
+C1448380	has_name	anorex
+C0024203	has_name	excision, lymph node
+C0024203	has_name	lymph node removal
+C0024203	has_name	lymph node excisions
+C0024203	has_name	lymphadenectomy, nos
+C0024203	has_name	excision lymph node
+C0024203	has_name	lymphadenectomy
+C0024203	has_name	excision of the lymph node
+C0024203	has_name	excision of lymph node (procedure)
+C0024203	has_name	lymph node dissection
+C0024203	has_name	lymph nodes removal
+C0024203	has_name	excision of group of lymph nodes (procedure)
+C0024203	has_name	excisions, lymph node
+C0024203	has_name	lymph node excision
+C0024203	has_name	excision of lymph node, nos
+C0024203	has_name	excision of lymph node
+C0024203	has_name	simple lymphadenectomy
+C0024203	has_name	excision of group of lymph nodes
+C0024203	has_name	lymphadenectomies
+C0024203	has_name	excision lymph nodes
+C0425297	has_name	heavy cigarette smoker (20-39 cigs/day) (life style)
+C0425297	has_name	heavy cigarette smoker (20-39 cigs/day) (finding)
+C0425297	has_name	heavy cigarette smoker (20-39 cigs/day)
+C0400436	has_name	partial removal of liver
+C0400436	has_name	hepatectomy rescj total left lobectomy
+C0400436	has_name	left hepatic lobectomy
+C0400436	has_name	hepatectomy, total left lobectomy
+C0400436	has_name	left hemihepatectomy
+C0400436	has_name	hepatectomy, total left lobectomy (procedure)
+C0400436	has_name	hepatectomy, resection of liver; total left lobectomy
+C0400435	has_name	partial removal of liver
+C0400435	has_name	right hepatic lobectomy
+C0400435	has_name	hepatectomy rescj total right lobectomy
+C0400435	has_name	right hemihepatectomy
+C0400435	has_name	hepatectomy, total right lobectomy (procedure)
+C0400435	has_name	hepatectomy, total right lobectomy
+C0400435	has_name	hepatectomy, resection of liver; total right lobectomy
+C0039988	has_name	resection of chest wall
+C0039988	has_name	resection of chest wall (procedure)
+C0039988	has_name	thoracoplasty procedure (procedure)
+C0039988	has_name	thoracectomy, nos
+C0039988	has_name	thoracoplasties
+C0039988	has_name	chest wall resection
+C0039988	has_name	resection of thorax, nos
+C0039988	has_name	thoracoplasty
+C0039988	has_name	thoracoplasty procedure
+C0205615	has_name	differentiating
+C0205615	has_name	differentiated
+C0205615	has_name	grade i
+C0205615	has_name	differentiates
+C0205615	has_name	well differentiated
+C0205615	has_name	well differentiated (grade) (qualifier value)
+C0205615	has_name	g1
+C0205615	has_name	well differentiated (qualifier value)
+C0205615	has_name	well differentiated (grade) [ambiguous]
+C0205615	has_name	differentiated, nos
+C0205615	has_name	differentiate
+C0153452	has_name	cancers, gall bladder
+C0153452	has_name	gall bladder cancer
+C0153452	has_name	malignant gallbladder tumor
+C0153452	has_name	malignant tumor of gallbladder (disorder)
+C0153452	has_name	cancer, gall bladder
+C0153452	has_name	malignant tumor of the gallbladder
+C0153452	has_name	gallbladder ca
+C0153452	has_name	gallbladder cancer
+C0153452	has_name	gallbladder tumor or cancer
+C0153452	has_name	cancer gallbladder
+C0153452	has_name	of gallbladder cancer
+C0153452	has_name	cancers, gallbladder
+C0153452	has_name	cancer, gallbladder
+C0153452	has_name	malignant tumour of gallbladder
+C0153452	has_name	malignant gallbladder neoplasm
+C0153452	has_name	bladder cancers, gall
+C0153452	has_name	cancer of the gallbladder
+C0153452	has_name	malignant neoplasm of gallbladder
+C0153452	has_name	gallbladder--cancer
+C0153452	has_name	gallbladder ca (disorder)
+C0153452	has_name	gall bladder cancers
+C0153452	has_name	malignant neoplasm of the gallbladder
+C0153452	has_name	cancer of gallbladder
+C0153452	has_name	malig neo gallbladder
+C0153452	has_name	bladder cancer, gall
+C0153452	has_name	gallbladder malignant neoplasm
+C0153452	has_name	gallbladder cancers
+C0153452	has_name	malignant tumor of gallbladder
+C0027912	has_name	neurosecret systems
+C0027912	has_name	system, neurosecretory
+C0027912	has_name	neurosecretory system
+C0027912	has_name	neuro-endocrine system
+C0027912	has_name	neuroendocrine
+C0027912	has_name	systems, neuroendocrine
+C0027912	has_name	neuroendocrine system
+C0027912	has_name	neurosecretory systems
+C0027912	has_name	system, neuroendocrine
+C0027912	has_name	neuroendocrine systems
+C0027912	has_name	systems, neurosecretory
+C0475383	has_name	t1a primary tumor finding
+C0475383	has_name	t1a tumor stage
+C0475383	has_name	t1a tumor finding
+C0475383	has_name	t1a
+C0475383	has_name	tumor stage t1a (tumor staging)
+C0475383	has_name	t1a stage finding
+C0475383	has_name	tumour stage t1a
+C0475383	has_name	t1a cancer stage finding
+C0475383	has_name	tumor stage t1a (finding)
+C0475383	has_name	tumor stage t1a
+C0475383	has_name	t1a primary tumor stage finding
+C0475383	has_name	t1a tnm finding
+C0475383	has_name	t1a stage
+C0441962	has_name	n1 stage (tumor staging)
+C0441962	has_name	n1 cancer stage finding
+C0441962	has_name	n1 lymph node stage
+C0441962	has_name	node stage n1 (tumor staging)
+C0441962	has_name	n1 category
+C0441962	has_name	n1
+C0441962	has_name	n1 stage finding
+C0441962	has_name	n1 regional lymph node stage finding
+C0441962	has_name	n1 category (finding)
+C0441962	has_name	n1 lymph node finding
+C0441962	has_name	n1 regional lymph nodes finding
+C0441962	has_name	n1 node stage
+C0441962	has_name	n1 node finding
+C0441962	has_name	n1 tnm finding
+C0441962	has_name	n1 stage
+C0441962	has_name	lymph node stage n1
+C0441962	has_name	n1 stage (finding)
+C0441962	has_name	node stage n1
+C1262477	has_name	weight loss (finding)
+C1262477	has_name	losing weight
+C1262477	has_name	weight decrease
+C1262477	has_name	loses weight
+C1262477	has_name	wt loss
+C1262477	has_name	weight reductions
+C1262477	has_name	weight loss
+C1262477	has_name	decreased weight
+C1262477	has_name	weight reduction
+C1262477	has_name	lose weight
+C1262477	has_name	weightloss
+C1262477	has_name	losses, weight
+C1262477	has_name	weight loss, progressive
+C1262477	has_name	reduction weight
+C1262477	has_name	decreased body weight
+C1262477	has_name	lost weight
+C1262477	has_name	weight losses
+C1262477	has_name	abnormal loss of weight
+C1262477	has_name	weight decreased
+C1262477	has_name	weight loss finding (finding)
+C1262477	has_name	loss of weight
+C1262477	has_name	loss weight
+C1262477	has_name	weight loss finding
+C1262477	has_name	decrease weight
+C1262477	has_name	loss wt
+C1262477	has_name	weight decreasing
+C1262477	has_name	reductions, weight
+C1262477	has_name	decreases weight
+C1262477	has_name	weight decreased (observable entity)
+C1262477	has_name	weight decreased (finding)
+C1262477	has_name	reduction, weight
+C1262477	has_name	weight decreasing (finding)
+C1262477	has_name	loss, weight
+C1262477	has_name	progressive weight loss
+C0206623	has_name	mixed adenocarcinoma and squamous cell carcinoma
+C0206623	has_name	carcinoma, adenosquamous
+C0206623	has_name	adenosquamous carcinoma (morphologic abnormality)
+C0206623	has_name	adenosquamous carcinoma (disorder)
+C0206623	has_name	adenosquamous carcinomas
+C0206623	has_name	mixed adenocarcinoma and epidermoid carcinoma
+C0206623	has_name	carcinomas, adenosquamous
+C0206623	has_name	mixed adenocarcinoma and squamous carcinoma
+C0206623	has_name	carcinoma, adenosquamous, malignant
+C0206623	has_name	mixed adenocarcinoma and epidermoid cell carcinoma
+C0206623	has_name	adenosquamous carcinoma
+C0206623	has_name	adenosquamous cell carcinoma
+C0206623	has_name	adenosquamous cell carcinoma (disorder)
+C0018799	has_name	heart--diseases
+C0018799	has_name	cardiac disease
+C0018799	has_name	heart disorders
+C0018799	has_name	heart disease disorder
+C0018799	has_name	disease cardiac
+C0018799	has_name	heart diseases
+C0018799	has_name	heart disease, nos
+C0018799	has_name	heart disorder
+C0018799	has_name	morbus cordis
+C0018799	has_name	morbus cordis, nos
+C0018799	has_name	heart disease nos
+C0018799	has_name	disease hearts
+C0018799	has_name	morbus cordis nos
+C0018799	has_name	heart dis
+C0018799	has_name	heart trouble
+C0018799	has_name	cardiopathy, nos
+C0018799	has_name	cardiopathies
+C0018799	has_name	cardiac dis
+C0018799	has_name	disorder heart
+C0018799	has_name	disease disorders heart
+C0018799	has_name	cardiac diseases
+C0018799	has_name	heart disease, unspecified
+C0018799	has_name	diseases disorders heart
+C0018799	has_name	heart disease (disorder)
+C0018799	has_name	cardiac disorders
+C0018799	has_name	disorder of heart
+C0018799	has_name	disorder cardiac (nos)
+C0018799	has_name	cardiac disorder
+C0018799	has_name	cardiopathy
+C0018799	has_name	heart disease nos (disorder)
+C0018799	has_name	diseases of the heart
+C0018799	has_name	heart disease
+C0018799	has_name	syndrome heart disease
+C3260298	has_name	adenoma histology
+C0549184	has_name	none
+C0549184	has_name	none (qualifier value)
+C0549184	has_name	none at all
+C3830345	has_name	ecog 1
+C3830345	has_name	1
+C3830345	has_name	1: symptomatic, but fully ambulatory
+C3830345	has_name	ecog performance status 1
+C0004096	has_name	asthma, bronchial
+C0004096	has_name	bronchial asthma
+C0004096	has_name	asthma nos (disorder)
+C0004096	has_name	asthma unspecified
+C0004096	has_name	bronchitic asthma
+C0004096	has_name	asthma (disorder) [ambiguous]
+C0004096	has_name	asthma, unspecified
+C0004096	has_name	asthma disorders
+C0004096	has_name	asthma bronchial
+C0004096	has_name	unspecified asthma
+C0004096	has_name	bronchial asthma, nos
+C0004096	has_name	asthma
+C0004096	has_name	asthma nos
+C0004096	has_name	airway hyperreactivity
+C0004096	has_name	asthmatic
+C0004096	has_name	asthma (disorder)
+C0004096	has_name	asthmas
+C0004096	has_name	asthma, nos
+C0004096	has_name	asthma unspecified (disorder)
+C0004096	has_name	asthmatics
+C0004096	has_name	br asthma
+C0475413	has_name	tumor stage tis
+C0475413	has_name	tis stage (finding)
+C0475413	has_name	tis tumor stage
+C0475413	has_name	tis: carcinoma in situ (finding)
+C0475413	has_name	tis: carcinoma in situ (tumor staging)
+C0475413	has_name	tumour stage tis
+C0475413	has_name	tis
+C0475413	has_name	tis primary tumor finding
+C0475413	has_name	tis stage finding
+C0475413	has_name	tis: carcinoma in situ
+C0475413	has_name	tis tumor finding
+C0475413	has_name	tis category (finding)
+C0475413	has_name	tis stage
+C0475413	has_name	tis cancer stage finding
+C0475413	has_name	tis tnm finding
+C0475413	has_name	tis category
+C0475413	has_name	tis stage (tumor staging)
+C0475413	has_name	tis primary tumor stage finding
+C1414313	has_name	egfr
+C1414313	has_name	erb-b2 receptor tyrosine kinase 1
+C1414313	has_name	v-erb-b avian erythroblastic leukemia viral oncogene homolog
+C1414313	has_name	epidermal growth factor receptor gene
+C1414313	has_name	oncogene erbb
+C1414313	has_name	species antigen 7
+C1414313	has_name	epidermal growth factor receptor
+C1414313	has_name	egfr gene
+C1414313	has_name	erythroblastic leukemia viral (v-erb-b) oncogene homolog (avian)
+C1414313	has_name	erbb1
+C1414313	has_name	her1
+C1414313	has_name	sa7
+C4511807	has_name	lobectomy of lower lobe of left lung (procedure)
+C4511807	has_name	lobectomy of lower lobe of left lung
+C0064635	has_name	type v if protein
+C0064635	has_name	lamin
+C0064635	has_name	lamins
+C0004093	has_name	[d]asthenia nos
+C0004093	has_name	asthenia
+C0004093	has_name	[d]asthenia nos (situation)
+C0004093	has_name	asthenia nos
+C0004093	has_name	[d]asthenia (situation)
+C0004093	has_name	asthenia [d] (situation)
+C0004093	has_name	[d]asthenia
+C0004093	has_name	[d]asthenia nos (context-dependent category)
+C0004093	has_name	asthenia (finding)
+C0004093	has_name	asthenia [d] (finding)
+C0004093	has_name	asthenia [d]
+C0004093	has_name	[d]asthenia (context-dependent category)
+C0260514	has_name	family history of other specified malignant neoplasm
+C0260514	has_name	family hx-malignancy nec
+C0740457	has_name	kidney cancers
+C0740457	has_name	renal malignant neoplasm
+C0740457	has_name	malignant tumour of kidney
+C0740457	has_name	ca - renal cancer
+C0740457	has_name	kidneys--cancer
+C0740457	has_name	malignant tumour of kidney (disorder)
+C0740457	has_name	renal cell cancer
+C0740457	has_name	malignant kidney neoplasm
+C0740457	has_name	malignant neoplasm of the kidney
+C0740457	has_name	renal malignant tumour
+C0740457	has_name	cancers, kidney
+C0740457	has_name	malignant tumor of kidney (disorder)
+C0740457	has_name	malignant renal neoplasm
+C0740457	has_name	malignant neoplasm of kidney
+C0740457	has_name	malignant renal tumor
+C0740457	has_name	renal cancers
+C0740457	has_name	cancer, renal
+C0740457	has_name	kidney (renal cell) cancer
+C0740457	has_name	cancer of the kidney
+C0740457	has_name	malignant neoplasm of kidney nos
+C0740457	has_name	malignant kidney tumor
+C0740457	has_name	renal malignant tumor
+C0740457	has_name	malignant tumor of the kidney
+C0740457	has_name	renal cancer
+C0740457	has_name	malignant tumor of kidney
+C0740457	has_name	ca - cancer of kidney
+C0740457	has_name	cancer, kidney
+C0740457	has_name	cancers, renal
+C0740457	has_name	malignant renal tumors
+C0740457	has_name	cancer of kidney
+C0740457	has_name	malignant neoplasm of kidney, nos
+C0740457	has_name	kidney cancer
+C3830341	has_name	ecog 5
+C3830341	has_name	ecog performance status 5
+C1336190	has_name	stage iib lung non-small cell carcinoma ajcc v7
+C1336190	has_name	stage iib non-small cell lung cancer
+C1336190	has_name	stage iib non-oat cell carcinoma of the lung
+C1336190	has_name	stage iib non-small cell carcinoma of the lung
+C1336190	has_name	stage iib non-small cell carcinoma of lung
+C1336190	has_name	stage iib non-oat cell carcinoma of lung
+C1336190	has_name	stage iib non-small cell lung carcinoma ajcc v7
+C1336190	has_name	stage iib non-small cell lung carcinoma
+C1336190	has_name	stage iib non-oat cell lung carcinoma
+C0205617	has_name	poorly differentiated
+C0205617	has_name	g3
+C0205617	has_name	poorly differentiated (grade) [ambiguous]
+C0205617	has_name	differentiated poorly
+C0205617	has_name	poorly differentiated (qualifier value)
+C0205617	has_name	grade iii
+C0205617	has_name	poorly differentiated (grade) (qualifier value)
+C2360138	has_name	total population of age 70-74y
+C4511811	has_name	lobectomy of upper lobe of right lung (procedure)
+C4511811	has_name	lobectomy of upper lobe of right lung
+C0022658	has_name	kidney disease, nos
+C0022658	has_name	kidney disease
+C0022658	has_name	diseases kidneys
+C0022658	has_name	disease of kidney
+C0022658	has_name	nephropathy, nos
+C0022658	has_name	kidney diseases
+C0022658	has_name	nephropathies
+C0022658	has_name	nephropathy nos
+C0022658	has_name	disorder of kidney
+C0022658	has_name	disorder kidney
+C0022658	has_name	diseases, kidney
+C0022658	has_name	disease, kidney
+C0022658	has_name	renal disease nos
+C0022658	has_name	kidney disease (disorder)
+C0022658	has_name	kidney dis
+C0022658	has_name	renal disorder
+C0022658	has_name	kidney disease nos
+C0022658	has_name	renal disease, nos
+C0022658	has_name	renal disorders
+C0022658	has_name	kidney disorders
+C0022658	has_name	renal disorders: nonspecific
+C0022658	has_name	nephrologic disease
+C0022658	has_name	nephropathy
+C0022658	has_name	kidney disease nos (disorder)
+C0022658	has_name	renal disease
+C0022658	has_name	kidneys--diseases
+C0022658	has_name	renal disorder, nos
+C0022658	has_name	disorder renal
+C0022658	has_name	kidney disorder
+C0022658	has_name	renal diseases
+C0278517	has_name	non-oat cell lung cancer, recurrent
+C0278517	has_name	non small cell lung cancer, recurrent
+C0278517	has_name	nsclc, recurrent
+C0278517	has_name	recurrent nonsmall cell lung cancer
+C0278517	has_name	lung cancer, non-oat cell, recurrent
+C0278517	has_name	non-small cell lung cancer, recurrent
+C0278517	has_name	recurrent nsclc
+C0278517	has_name	recurrent non-small cell lung carcinoma
+C0278517	has_name	recurrent/relapsed non-small cell lung cancer
+C0278517	has_name	recurrent lung non-small cell carcinoma
+C0278517	has_name	nonsmall cell lung cancer, recurrent
+C0278517	has_name	non small cell lung cancer recurrent
+C0278517	has_name	recurrent non-small cell cancer of the lung
+C0278517	has_name	lung cancer, nonsmall cell, recurrent
+C0278517	has_name	recurrent non-small cell lung cancer
+C0278517	has_name	recurrent non-small cell cancer of lung
+C0260515	has_name	fh: malignant disease
+C0260515	has_name	family history of cancer
+C0260515	has_name	family history of cancer (context-dependent category)
+C0260515	has_name	fh: cancer
+C0260515	has_name	family cancer history
+C0260515	has_name	family history of cancer (situation)
+C0260515	has_name	fh: cancer - *
+C0728711	has_name	family history of lung cancer
+C0728711	has_name	family history of malignant neoplasm of lung
+C0728711	has_name	family history of malignant neoplasm of lung (situation)
+C0728711	has_name	[v]family history of malignant neoplasm of lung
+C0027567	has_name	negroid races
+C0027567	has_name	african race
+C0027567	has_name	african race (finding)
+C0027567	has_name	races, negroid
+C0027567	has_name	black
+C0027567	has_name	african ancestry
+C0027567	has_name	african
+C0027567	has_name	african race (racial group)
+C0027567	has_name	negroid
+C0027567	has_name	african descent
+C0027567	has_name	negroid race
+C0027567	has_name	race, negroid
+C0025202	has_name	malignant melanoma, morphology (morphologic abnormality)
+C0025202	has_name	melanoma malignant
+C0025202	has_name	melanoma (disorder)
+C0025202	has_name	[m]malignant melanoma nos or melanocarcinoma or melanoma nos
+C0025202	has_name	[m]melanoma nos
+C0025202	has_name	[m]naevocarcinoma
+C0025202	has_name	melanoma syndrome
+C0025202	has_name	malignant melanoma
+C0025202	has_name	cancer of skin pigment cells
+C0025202	has_name	malignant melanomas
+C0025202	has_name	mm - malignant melanoma
+C0025202	has_name	malignant melanoma, no icd-o subtype
+C0025202	has_name	malignant melanoma, no international classification of diseases for oncology subtype (morphologic abnormality)
+C0025202	has_name	malignant melanoma (disorder)
+C0025202	has_name	melanoma, malignant
+C0025202	has_name	melanosarcoma
+C0025202	has_name	melanoma - malignant
+C0025202	has_name	melanomas
+C0025202	has_name	malignant melanoma, nos
+C0025202	has_name	melanoma, nos
+C0025202	has_name	cutaneous melanoma
+C0025202	has_name	malignant melanoma (morphologic abnormality)
+C0025202	has_name	[m]melanocarcinoma
+C0025202	has_name	[m]malignant melanoma nos or melanocarcinoma or melanoma nos (disorder)
+C0025202	has_name	melanomas, malignant
+C0025202	has_name	melanoma
+C0025202	has_name	malignant melanoma, no international classification of diseases for oncology subtype
+C0025202	has_name	[m]melanosarcoma nos
+C0025202	has_name	nevocarcinoma
+C0025202	has_name	[m]malignant melanoma nos
+C0025202	has_name	[m]malignant melanoma nos (morphologic abnormality)
+C0025202	has_name	malignant melanoma, no icd-o subtype (morphologic abnormality)
+C0025202	has_name	melanocarcinoma
+C0028754	has_name	obesity, unspecified
+C0028754	has_name	obesity nos
+C0028754	has_name	obesity (disorder)
+C0028754	has_name	having too much body fat
+C0028754	has_name	obesity, nos
+C0028754	has_name	obesity
+C0028754	has_name	obese
+C0028754	has_name	adiposity
+C0028754	has_name	obese (finding)
+C0028754	has_name	obesity [ambiguous]
+C0371456	has_name	resection and repair of portion of bronchus (bronchoplasty) when performed at time of lobectomy or segmentectomy (list separately in addition to code for primary procedure)
+C0371456	has_name	rescj&bronchoplasty pfrmd tm lobec/sgmectomy
+C0371456	has_name	repair bronchus add-on
+C0041296	has_name	infection tuberculosis
+C0041296	has_name	infection due to mycobacterium tuberculosis (disorder)
+C0041296	has_name	kochs disease
+C0041296	has_name	infection tbc
+C0041296	has_name	tuberculosis disease
+C0041296	has_name	mycobacterium tuberculosis infection
+C0041296	has_name	koch's disease
+C0041296	has_name	tuberculosis infection
+C0041296	has_name	active tuberculosis
+C0041296	has_name	tuberculous (disorder)
+C0041296	has_name	tbc
+C0041296	has_name	tuberculosis
+C0041296	has_name	infections, mycobacterium tuberculosis
+C0041296	has_name	infection caused by mycobacterium tuberculosis (disorder)
+C0041296	has_name	tuberculosis (tb)
+C0041296	has_name	tuberculosis (a15-a19)
+C0041296	has_name	tb
+C0041296	has_name	tb - tuberculosis
+C0041296	has_name	mtb - mycobacterium tuberculosis infection
+C0041296	has_name	mycobacterium tuberculosis infections
+C0041296	has_name	tuberculosis (disorder)
+C0041296	has_name	tuberculosis nos
+C0041296	has_name	infection caused by mycobacterium tuberculosis
+C0041296	has_name	infection, mycobacterium tuberculosis
+C0041296	has_name	tuberculosis, nos
+C0041296	has_name	tuberculoses
+C0041296	has_name	tuberculous
+C0041296	has_name	tuberculosis nos (disorder)
+C0041296	has_name	infection due to mycobacterium tuberculosis
+C0041296	has_name	tuberculous (qualifier value)
+C0041296	has_name	koch disease
+C0445085	has_name	nx stage
+C0445085	has_name	nx node finding
+C0445085	has_name	nx regional lymph node stage finding
+C0445085	has_name	nx lymph node finding
+C0445085	has_name	node stage nx (tumor staging)
+C0445085	has_name	nx tnm finding
+C0445085	has_name	node stage nx
+C0445085	has_name	nx stage finding
+C0445085	has_name	lymph node stage nx
+C0445085	has_name	nx node stage
+C0445085	has_name	nx lymph node stage
+C0445085	has_name	nx regional lymph nodes finding
+C0445085	has_name	nx category
+C0445085	has_name	nx stage (tumor staging)
+C0445085	has_name	nx stage (finding)
+C0445085	has_name	nx category (finding)
+C0445085	has_name	nx
+C0445085	has_name	nx cancer stage finding
+C0205618	has_name	g4
+C0205618	has_name	undifferentiated
+C0205618	has_name	anaplastic
+C0205618	has_name	undifferentiated (qualifier value)
+C0205618	has_name	undifferentiated (grade) [ambiguous]
+C0205618	has_name	undifferentiated (grade) (qualifier value)
+C0205394	has_name	other or miscellaneous
+C0205394	has_name	other
+C0205394	has_name	other (qualifier value)
+C2360130	has_name	total population of age 50-54y
+C0376358	has_name	prostate cancers
+C0376358	has_name	cancer, prostate
+C0376358	has_name	prostate--cancer
+C0376358	has_name	malignant neoplasm prostate
+C0376358	has_name	prostatic cancers
+C0376358	has_name	cancers, prostatic
+C0376358	has_name	malignant tumor of prostate (disorder)
+C0376358	has_name	malign neopl prostate
+C0376358	has_name	ca - cancer of prostate
+C0376358	has_name	cancers, prostate
+C0376358	has_name	prostate ca
+C0376358	has_name	malignant prostate tumor
+C0376358	has_name	malignant tumor of the prostate
+C0376358	has_name	malignant neoplasm of the prostate
+C0376358	has_name	malignant neoplasm of prostate
+C0376358	has_name	malignant prostate neoplasm
+C0376358	has_name	prostate cancer
+C0376358	has_name	prostatic cancer
+C0376358	has_name	cancer, prostatic
+C0376358	has_name	cancer of prostate
+C0376358	has_name	malignant tumor of prostate
+C0376358	has_name	malignant tumour of prostate
+C0376358	has_name	malignant prostatic tumour
+C0376358	has_name	cancer of the prostate
+C0376358	has_name	malignant prostatic tumor
+C0020538	has_name	hypertension nos
+C0020538	has_name	hyperpiesis
+C0020538	has_name	raised blood pressure (disorder)
+C0020538	has_name	hbp
+C0020538	has_name	hypertension
+C0020538	has_name	blood pressures, high
+C0020538	has_name	hyperpiesia
+C0020538	has_name	hypertension, nos
+C0020538	has_name	hbp - high blood pressure
+C0020538	has_name	hypertensive disease (disorder)
+C0020538	has_name	hypertensive vascular disease
+C0020538	has_name	(hypertensive disease) or (hypertension)
+C0020538	has_name	high blood pressures
+C0020538	has_name	surg comp - hypertension
+C0020538	has_name	htn
+C0020538	has_name	hypertensive vascular degeneration
+C0020538	has_name	blood pressure, increased
+C0020538	has_name	hypertension arterial
+C0020538	has_name	vascular hypertensive disorder
+C0020538	has_name	hypertensive disorder, systemic arterial (disorder)
+C0020538	has_name	systemic hypertension
+C0020538	has_name	[x]hypertensive diseases
+C0020538	has_name	hypertensive diseases
+C0020538	has_name	pressure, high blood
+C0020538	has_name	arterial hypertension
+C0020538	has_name	htn - hypertension
+C0020538	has_name	increased blood pressure
+C0020538	has_name	arterial hypertension systemic
+C0020538	has_name	ht - hypertension
+C0020538	has_name	hypertensive disease nos (disorder)
+C0020538	has_name	(hypertensive disease) or (hypertension) (disorder)
+C0020538	has_name	complications affecting other specified body systems, not elsewhere classified, hypertension
+C0020538	has_name	blood pressure, high
+C0020538	has_name	hypertensive disorder
+C0020538	has_name	[x]hypertensive diseases (disorder)
+C0020538	has_name	high blood pressure
+C0020538	has_name	systemic arterial hypertension
+C0020538	has_name	blood high pressure
+C0020538	has_name	elevated blood pressure
+C0020538	has_name	bp+ - hypertension
+C0020538	has_name	hypertensive disease nos
+C0020538	has_name	hypertensive disease, nos
+C0020538	has_name	high bp
+C0020538	has_name	vascular hypertension
+C0020538	has_name	blood pressure high
+C0020538	has_name	hypertensive disease
+C0020538	has_name	high blood pressure disorder
+C0020538	has_name	bp - high blood pressure
+C0020538	has_name	hypertensive disorder, systemic arterial
+C2987624	has_name	segmentectomy
+C2987624	has_name	segmental resection
+C0332377	has_name	tx primary tumor stage finding
+C0332377	has_name	tx stage
+C0332377	has_name	tx cancer stage finding
+C0332377	has_name	tx
+C0332377	has_name	tx stage (finding)
+C0332377	has_name	tumor stage tx
+C0332377	has_name	tx tumor finding
+C0332377	has_name	tx category (finding)
+C0332377	has_name	tx stage finding
+C0332377	has_name	tumour stage tx
+C0332377	has_name	tx stage (tumor staging)
+C0332377	has_name	tx primary tumor finding
+C0332377	has_name	tx category
+C0332377	has_name	tx tumor stage
+C0332377	has_name	tx tnm finding
+C0024117	has_name	copd, chronic obstructive pulmonary disease
+C0024117	has_name	chronic obstructive lung disease nos
+C0024117	has_name	chronic obstructive pulmonary disease nos
+C0024117	has_name	coad - chronic obstructive airways disease
+C0024117	has_name	chronic obstructive lung dis
+C0024117	has_name	chronic obstructive pulmonary disease, unspecified
+C0024117	has_name	chronic obstructive lung disease [ambiguous]
+C0024117	has_name	chronic obstructive pulmonary disease
+C0024117	has_name	pulmonary disease (copd), chronic obstructive
+C0024117	has_name	chronic airway disease
+C0024117	has_name	chronic obstructive lung disease (disorder)
+C0024117	has_name	chronic irreversible airway obstruction
+C0024117	has_name	cold
+C0024117	has_name	chronic obstructive lung disease, nos
+C0024117	has_name	disease (copd), chronic obstructive
+C0024117	has_name	hyperactive airway disease
+C0024117	has_name	chronic obstructive airway dis
+C0024117	has_name	obstructive pulmonary disease (copd), chronic
+C0024117	has_name	chronic obstructive airways disease nos
+C0024117	has_name	chronic airways disease
+C0024117	has_name	pulmonary disease, chronic obstructive
+C0024117	has_name	copd
+C0024117	has_name	chronic obstructive pulmonary disease, (copd)
+C0024117	has_name	pulm dis chronic obstructive
+C0024117	has_name	cold - chronic obstructive lung disease
+C0024117	has_name	chronic obstructive pulmonary disease (copd)
+C0024117	has_name	copd nos
+C0024117	has_name	chronic obstructive airway disease
+C0024117	has_name	chronic obstructive airway disease nos
+C0024117	has_name	chronic obstructive lung disease
+C0024117	has_name	chronic airway obstruction
+C0024117	has_name	chronic obstructive airways disease nos (disorder)
+C0024117	has_name	coad
+C0024117	has_name	copd - chronic obstructive pulmonary disease
+C0024117	has_name	cold (chronic obstructive lung disease)
+C0024117	has_name	chronic airflow limitation
+C0024117	has_name	cafl - chronic airflow limitation
+C0024117	has_name	chronic obstructive pulm dis
+C0024117	has_name	chronic obstructive airways disease
+C0024117	has_name	chronic obstructive pulmonary disease finding (finding)
+C0024117	has_name	chronic obstructive pulmonary disease finding
+C0024117	has_name	cal - chronic airflow limitation
+C0475371	has_name	t0
+C0475371	has_name	t0 tumor finding
+C0475371	has_name	t0 primary tumor finding
+C0475371	has_name	tumour stage t0
+C0475371	has_name	t0 category (finding)
+C0475371	has_name	t0 stage
+C0475371	has_name	t0 cancer stage finding
+C0475371	has_name	to
+C0475371	has_name	t0 tumor stage
+C0475371	has_name	t0 tnm finding
+C0475371	has_name	t0 category
+C0475371	has_name	t0 stage (finding)
+C0475371	has_name	tumor stage t0
+C0475371	has_name	t0 stage finding
+C0475371	has_name	t0 stage (tumor staging)
+C0475371	has_name	t0 primary tumor stage finding
+C0413365	has_name	intravenous chemotherapy (procedure)
+C0413365	has_name	intravenous therapy: [chemo-] or [drug]
+C0413365	has_name	intravenous chemotherapy
+C0413365	has_name	intravenous drug therapy
+C0413365	has_name	intravenous therapy: [chemo-] or [drug] (procedure)
+C0043157	has_name	white/caucasian
+C0043157	has_name	caucasian (ethnic group)
+C0043157	has_name	white - ethnic group (ethnic group)
+C0043157	has_name	caucasians
+C0043157	has_name	white - ethnic group
+C0043157	has_name	whites
+C0043157	has_name	caucasian (living organism) (ethnic group)
+C0043157	has_name	white
+C0043157	has_name	caucasian (living organism)
+C0043157	has_name	white people
+C0043157	has_name	caucasian, nos
+C0043157	has_name	racewhite
+C0043157	has_name	caucasoid
+C0043157	has_name	caucasian
+C0043157	has_name	white race
+C0205312	has_name	papillary
+C0205312	has_name	papillary (qualifier value)
+C0011849	has_name	disorder diabetes mellitus
+C0011849	has_name	diabetes
+C0011849	has_name	diabetes mellitus (dm)
+C0011849	has_name	diabete mellitus
+C0011849	has_name	dm
+C0011849	has_name	dm - diabetes mellitus
+C0011849	has_name	diabetes mellitus nos
+C0011849	has_name	unspecified diabetes mellitus
+C0011849	has_name	diabetes (dm)
+C0011849	has_name	diabetes mellitus (e08-e13)
+C0011849	has_name	diabetes mellitus
+C0011849	has_name	diabetes mellitus (disorder)
+C0011849	has_name	diabetes mellitus, nos
+C0011849	has_name	diabetes nos
+C1704272	has_name	prostate hyperplasia
+C1704272	has_name	benign prostatic hyperplasia (bph)
+C1704272	has_name	prostatic hyperplasia benign <prostatism>
+C1704272	has_name	prostatic hyperplasia, benign
+C1704272	has_name	benign hyperplasia of prostate
+C1704272	has_name	benign prostatic hyperplasia
+C1704272	has_name	benign prostate hyperplasia
+C1704272	has_name	bph
+C1704272	has_name	nodular hyperplasia of prostate gland
+C1704272	has_name	benign hyperplasia of the prostate
+C1704272	has_name	benign prostatic hyperplasia (disorder)
+C1704272	has_name	benign prostatic hyperplasia, nos
+C1704272	has_name	prostatic hyperplasia
+C1704272	has_name	benign prostatic hyperplasia - bph
+C1704272	has_name	bph - benign prostatic hyperplasia
+C1880198	has_name	cured
+C1880198	has_name	curative
+C1880198	has_name	cure
+C1880198	has_name	cure (remedy)
+C0521362	has_name	gi
+C0521362	has_name	gastro-intestinal
+C0521362	has_name	gastro intestinal
+C0521362	has_name	gastrointestinal (gi)
+C0521362	has_name	gastrointestinal
+C0521362	has_name	gastroenteral
+C0439639	has_name	wedge
+C0439639	has_name	wedge (physical object)
+C0439639	has_name	wedges
+C4281160	has_name	cigarette smoker (1-4 cigarettes/day) (finding)
+C4281160	has_name	cigarette smoker (1-4 cigarettes/day)
+C1947901	has_name	cancer disease progression
+C1947901	has_name	cancer progression
+C1336139	has_name	stage ib non-small cell carcinoma of lung
+C1336139	has_name	stage ib non-oat cell lung carcinoma
+C1336139	has_name	stage ib non-oat cell carcinoma of the lung
+C1336139	has_name	stage ib non-oat cell carcinoma of lung
+C1336139	has_name	stage ib non-small cell lung carcinoma ajcc v7
+C1336139	has_name	stage ib non-small cell carcinoma of the lung
+C1336139	has_name	stage ib non-small cell lung carcinoma
+C1336139	has_name	stage ib lung non-small cell carcinoma ajcc v7
+C1336139	has_name	stage ib non-small cell lung cancer
+C0812281	has_name	avian ur2 sarcoma virus oncogene homolog 1
+C0812281	has_name	mcf3
+C0812281	has_name	ros1
+C0812281	has_name	c-ros-1
+C0812281	has_name	v-ros avian ur2 sarcoma virus oncogene homolog 1
+C0812281	has_name	ros proto-oncogene 1, receptor tyrosine kinase
+C0812281	has_name	ros
+C0812281	has_name	ros proto-oncogene 1, receptor tyrosine kinase gene
+C0812281	has_name	oncogene ros
+C0812281	has_name	ros1 gene
+C0475288	has_name	residual tumour stage r0
+C0475288	has_name	residual tumor stage r0
+C0475288	has_name	r0: no residual tumor
+C0475288	has_name	residual tumor stage r0 (finding)
+C0475288	has_name	stage r0
+C0475288	has_name	residual tumor stage 0
+C0475288	has_name	residual tumor stage r0 (qualifier value)
+C1261473	has_name	mesenchymal tumour, malignant
+C1261473	has_name	soft tissue sarcoma
+C1261473	has_name	sarcoma of the soft tissue and bone
+C1261473	has_name	malignant connective tissue tumor
+C1261473	has_name	sarcoma
+C1261473	has_name	sarcoma of soft tissue and bone
+C1261473	has_name	sarcoma nos
+C1261473	has_name	malignant mesenchymal tumor
+C1261473	has_name	[m]sarcoma nos (morphologic abnormality)
+C1261473	has_name	malignant mesenchymal tumour
+C1261473	has_name	sarcomas
+C1261473	has_name	sarcoma, no icd-o subtype
+C1261473	has_name	cancer of connective tissue
+C1261473	has_name	sarcoma, no icd-o subtype (morphologic abnormality)
+C1261473	has_name	sarcoma, soft tissue
+C1261473	has_name	soft tissue sarcomas
+C1261473	has_name	sarcoma (disorder)
+C1261473	has_name	sarcoma, no international classification of diseases for oncology subtype (morphologic abnormality)
+C1261473	has_name	sarcoma, no international classification of diseases for oncology subtype
+C1261473	has_name	sarcoma, nos
+C1261473	has_name	mesenchymal tumor, malignant
+C1261473	has_name	[m]sarcoma nos
+C1261473	has_name	sarcomas, soft tissue
+C1261473	has_name	sarcoma, malignant
+C0332207	has_name	acinar (qualifier value)
+C0332207	has_name	acinarv (qualifier value)
+C0332207	has_name	acinar
+C0396576	has_name	lingulectomy of lung
+C0396576	has_name	lingulectomy of lung (procedure)
+C0396576	has_name	excision of lingula
+C0396576	has_name	lingulectomy
+C0252409	has_name	anaplastic lymphoma receptor tyrosine kinase
+C0252409	has_name	nucleophosmin anaplastic lymphoma kinase
+C0252409	has_name	alk tyrosine kinase receptor
+C0252409	has_name	anaplastic lymphoma kinase
+C0252409	has_name	cd246 antigen
+C0252409	has_name	npm-alk
+C0252409	has_name	alk kinase
+C0252409	has_name	nucleophosmin-anaplastic lymphoma kinase
+C0086287	has_name	female gender, self report
+C0086287	has_name	female sex
+C0086287	has_name	female gender
+C0086287	has_name	female individual
+C0086287	has_name	female (finding)
+C0086287	has_name	f
+C0086287	has_name	female structure (body structure)
+C0086287	has_name	female individual, nos
+C0086287	has_name	sex female
+C0086287	has_name	females
+C0086287	has_name	female gender, self reported
+C0086287	has_name	female
+C0086287	has_name	female, nos
+C0086287	has_name	female structure
+C0085533	has_name	adjuvant drug ther
+C0085533	has_name	chemotherapy, adjuvant
+C0085533	has_name	adjuvant drug therapy
+C0085533	has_name	drug therapy, adjuvant
+C0085533	has_name	chemother adjuvant
+C0085533	has_name	adjuvant chemotherapy
+C0085533	has_name	drug ther adjuvant
+C0278996	has_name	head and neck cancer, unknown site
+C0278996	has_name	cancer of head and neck
+C0278996	has_name	malignant tumor of head and neck (disorder)
+C0278996	has_name	head cancer neck
+C0278996	has_name	malignant neoplasm of the head and neck
+C0278996	has_name	cancer head neck
+C0278996	has_name	malignant tumor of head and neck
+C0278996	has_name	malignant tumor of the head and neck
+C0278996	has_name	malignant neoplasm of head and neck
+C0278996	has_name	head and neck cancer, nos
+C0278996	has_name	cancer of head neck
+C0278996	has_name	malignant head and neck tumors
+C0278996	has_name	cancer of the head and neck
+C0278996	has_name	malignant tumor of head and/or neck (disorder)
+C0278996	has_name	cancers head neck
+C0278996	has_name	malignant head and neck neoplasm
+C0278996	has_name	of head neck cancer
+C0278996	has_name	malignant tumor of head and/or neck
+C0278996	has_name	cancer of the neck head
+C0278996	has_name	malignant tumour of head and neck
+C0278996	has_name	head neck cancer
+C0278996	has_name	malignant head and neck tumor
+C0278996	has_name	malignant tumour of head and/or neck
+C0278996	has_name	head and neck cancer
+C1336026	has_name	solid lung adenocarcinoma
+C1336026	has_name	pulmonary solid adenocarcinoma with mucin
+C1336026	has_name	solid adenocarcinoma of lung with mucin
+C1336026	has_name	solid adenocarcinoma of the lung with mucin
+C1336026	has_name	lung solid adenocarcinoma with mucin
+C3241966	has_name	smoker
+C3241966	has_name	current smoker
+C4526715	has_name	stage ia2 lung cancer ajcc v8
+C4526715	has_name	stage ia2 non-small cell lung cancer
+C4526715	has_name	stage ia2 lung cancer
+C0078988	has_name	asian race (racial group)
+C0078988	has_name	asian
+C0078988	has_name	asians
+C0078988	has_name	race: oriental
+C0078988	has_name	asian race
+C0078988	has_name	oriental
+C0078988	has_name	oriental (ethnic group)
+C0078988	has_name	orientals
+C0078988	has_name	race: oriental (finding)
+C0078988	has_name	asian race (finding)
+C0078988	has_name	raceasian
+C0475386	has_name	tumour stage t1c
+C0475386	has_name	tumor stage t1c (tumor staging)
+C0475386	has_name	t1c
+C0475386	has_name	t1c primary tumor finding
+C0475386	has_name	t1c tumor finding
+C0475386	has_name	t1c tnm finding
+C0475386	has_name	t1c primary tumor stage finding
+C0475386	has_name	tumor stage t1c
+C0475386	has_name	t1c stage
+C0475386	has_name	t1c cancer stage finding
+C0475386	has_name	t1c stage finding
+C0475386	has_name	tumor stage t1c (finding)
+C0475386	has_name	t1c tumor stage
+C2360136	has_name	total population of age 65-69y
+C1336119	has_name	stage ia non-small cell carcinoma of lung
+C1336119	has_name	stage ia non-oat cell carcinoma of the lung
+C1336119	has_name	stage ia non-small cell lung carcinoma
+C1336119	has_name	stage ia non-oat cell carcinoma of lung
+C1336119	has_name	stage ia non-small cell carcinoma of the lung
+C1336119	has_name	stage ia lung non-small cell carcinoma ajcc v7
+C1336119	has_name	stage ia non-small cell lung carcinoma ajcc v7
+C1336119	has_name	stage ia non-oat cell lung carcinoma
+C1336119	has_name	stage ia non-small cell lung cancer
+C0020443	has_name	increased total cholesterol
+C0020443	has_name	high cholesterol
+C0020443	has_name	level, high cholesterol
+C0020443	has_name	high cholesterol levels
+C0020443	has_name	hypercholesterolaemia, nos
+C0020443	has_name	high blood cholesterol level
+C0020443	has_name	hypercholesterolemia
+C0020443	has_name	hypercholesterolemia (elevated plasma cholesterol)
+C0020443	has_name	cholesterol, elevated
+C0020443	has_name	hypercholesterolemia, nos
+C0020443	has_name	cholesterol levels, high
+C0020443	has_name	elevated cholesterols
+C0020443	has_name	hypercholesterolaemia
+C0020443	has_name	hypercholesteremias
+C0020443	has_name	high cholesterol level
+C0020443	has_name	elevated cholesterol
+C0020443	has_name	hypercholesteraemia
+C0020443	has_name	cholesterols, elevated
+C0020443	has_name	cholesterol level, high
+C0020443	has_name	hypercholesterolemias
+C0020443	has_name	hypercholesterolemia (disorder)
+C0020443	has_name	levels, high cholesterol
+C0020443	has_name	hypercholesteremia
+C0020443	has_name	elevated total cholesterol
+C3830343	has_name	3
+C3830343	has_name	3: symptomatic, in bed more than 50% of day, but not bed-ridden
+C3830343	has_name	ecog 3
+C3830343	has_name	ecog performance status 3
+C0229473	has_name	cells clear
+C0229473	has_name	external supporting cell of vestibular epithelium
+C0229473	has_name	external supporting cell of claudius
+C0229473	has_name	cell of claudius
+C0229473	has_name	clear cells
+C0229473	has_name	cell of claudius (cell)
+C0229473	has_name	claudius cell
+C0229473	has_name	cell of claudius (body structure)
+C0229473	has_name	clear cell
+C0345904	has_name	malignant tumor of liver
+C0345904	has_name	liver, unspecified
+C0345904	has_name	liver--cancer
+C0345904	has_name	malignant tumour of liver
+C0345904	has_name	liver cancers
+C0345904	has_name	malignant neoplasm of liver unspecified (disorder)
+C0345904	has_name	liver tumor or cancer
+C0345904	has_name	cancer, liver
+C0345904	has_name	cancer of the liver
+C0345904	has_name	cancer of liver
+C0345904	has_name	hepatic cancer
+C0345904	has_name	malignant neoplasm of liver
+C0345904	has_name	malignant neoplasm of liver, nos
+C0345904	has_name	cancers, hepatic
+C0345904	has_name	malignant neoplasm of liver (disorder)
+C0345904	has_name	malignant neoplasm of liver unspecified
+C0345904	has_name	cancer, hepatocellular
+C0345904	has_name	hepatic cancers
+C0345904	has_name	cancer, hepatic
+C0345904	has_name	cancers, hepatocellular
+C0345904	has_name	liver cancer
+C0345904	has_name	hepatocellular cancers
+C0345904	has_name	malignant neoplasm of liver, unspecified
+C0345904	has_name	ca - liver cancer
+C0345904	has_name	cancers, liver
+C0345904	has_name	malignant neo liver nos
+C0345904	has_name	liver malignant tumors
+C0345904	has_name	hepatocellular cancer
+C0345904	has_name	malignant neoplasm of liver, not specified as primary or secondary
+C0345904	has_name	malignant tumor of liver (disorder)
+C0345904	has_name	hepatic neoplasm malignant
+C0345904	has_name	malig neoplasm of liver, not specified as primary or sec
+C3830346	has_name	0: asymptomatic
+C3830346	has_name	0
+C3830346	has_name	ecog performance status 0
+C3830346	has_name	ecog 0
+C4526714	has_name	stage ia1 non-small cell lung cancer
+C4526714	has_name	stage ia1 lung cancer
+C4526714	has_name	stage ia1 lung cancer ajcc v8
+C0019158	has_name	hepatitis
+C0019158	has_name	hepatitis unspecified nos
+C0019158	has_name	liver inflammation
+C0019158	has_name	inflammatory liver disease, unspecified
+C0019158	has_name	inflammatory disease of liver (disorder)
+C0019158	has_name	hepatitis nos
+C0019158	has_name	unspecified hepatitis
+C0019158	has_name	inflammatory disorder of liver
+C0019158	has_name	hepatitides
+C0019158	has_name	hepatitis (disorder)
+C0019158	has_name	hepatitis, unspecified
+C0019158	has_name	nonspecific hepatitis
+C0019158	has_name	inflammatory liver disease
+C0019158	has_name	inflammatory disease of liver
+C0019158	has_name	hepatitis unspecified
+C0019158	has_name	hepatitis unspecified nos (disorder)
+C0019158	has_name	hepatitis nonspecific
+C0019158	has_name	hepatitis unspecified (disorder)
+C0019158	has_name	hepatitis, nos
+C0475388	has_name	t2b tumor stage
+C0475388	has_name	t2b stage
+C0475388	has_name	t2b
+C0475388	has_name	t2b primary tumor stage finding
+C0475388	has_name	t2b tumor finding
+C0475388	has_name	tumor stage t2b (tumor staging)
+C0475388	has_name	t2b cancer stage finding
+C0475388	has_name	tumour stage t2b
+C0475388	has_name	tumor stage t2b
+C0475388	has_name	tumor stage t2b (finding)
+C0475388	has_name	t2b primary tumor finding
+C0475388	has_name	t2b stage finding
+C0475388	has_name	t2b tnm finding
+C0348374	has_name	cancer central nervous system
+C0348374	has_name	central nervous system neoplasm
+C0348374	has_name	[x]malignant neoplasm of central nervous system, unspecified
+C0348374	has_name	cancer of cns
+C0348374	has_name	cancer of the central nervous system
+C0348374	has_name	cns malignant neoplasms
+C0348374	has_name	central nervous system--cancer
+C0348374	has_name	central nervous system neoplasms, malignant
+C0348374	has_name	cns cancer
+C0348374	has_name	malignant neoplasm of central nervous system
+C0348374	has_name	malignant tumor of the central nervous system
+C0348374	has_name	malignant cns neoplasms
+C0348374	has_name	malignant neoplasm of central nervous system, nos
+C0348374	has_name	malignant tumor of central nervous system
+C0348374	has_name	malignant tumor of the cns
+C0348374	has_name	malignant cns tumor
+C0348374	has_name	[x]malignant neoplasm of central nervous system, unspecified (disorder)
+C0348374	has_name	cancer of the cns
+C0348374	has_name	cns neoplasms, malignant
+C0348374	has_name	cns malignancies
+C0348374	has_name	malignant neoplasm of cns
+C0348374	has_name	malignant cns neoplasm
+C0348374	has_name	malignant neoplasm of central nervous system, unspecified
+C0348374	has_name	central nervous system cancer
+C0348374	has_name	malignant neoplasm of central nervous system (disorder)
+C0348374	has_name	neurological cancer
+C0348374	has_name	malignant tumor of cns
+C0348374	has_name	malignant neoplasm of the cns
+C0348374	has_name	malignant neoplasm of central nervous system nos
+C0348374	has_name	malignant central nervous system tumor
+C0348374	has_name	central nervous system, unspecified
+C0348374	has_name	cancer of central nervous system
+C0348374	has_name	malignant neoplasm of the central nervous system
+C0348374	has_name	malignant central nervous system neoplasm
+C0348374	has_name	cns malignancy
+C0348374	has_name	neurological tumor, cns
+C0475751	has_name	t4 tnm finding
+C0475751	has_name	t4 category (finding)
+C0475751	has_name	t4 stage (tumor staging)
+C0475751	has_name	t4 primary tumor stage finding
+C0475751	has_name	tumor stage t4
+C0475751	has_name	t4 primary tumor finding
+C0475751	has_name	t4 tumor finding
+C0475751	has_name	t4 stage
+C0475751	has_name	tumour stage t4
+C0475751	has_name	t4 stage (finding)
+C0475751	has_name	t4 cancer stage finding
+C0475751	has_name	t4 category
+C0475751	has_name	t4
+C0475751	has_name	t4 tumor stage
+C0475751	has_name	t4 stage finding
+C0278504	has_name	stage i non-oat cell lung carcinoma
+C0278504	has_name	stage i nsclc
+C0278504	has_name	stage i non-small cell carcinoma of the lung
+C0278504	has_name	stage i nonsmall cell lung cancer
+C0278504	has_name	stage i non-small cell lung carcinoma
+C0278504	has_name	stage i non-small cell lung cancer ajcc v7
+C0278504	has_name	lung cancer, non-oat cell, stage i
+C0278504	has_name	nsclc, stage i
+C0278504	has_name	stage i non-oat cell carcinoma of lung
+C0278504	has_name	stage i lung non-small cell cancer ajcc v7
+C0278504	has_name	stage i non-small cell lung cancer
+C0278504	has_name	lung cancer, nonsmall cell, stage i
+C0278504	has_name	non-small cell lung cancer, stage i
+C0278504	has_name	nonsmall cell lung cancer, stage i
+C0278504	has_name	non-oat cell lung cancer, stage i
+C0278504	has_name	stage i non-oat cell carcinoma of the lung
+C0278504	has_name	stage i non-small cell carcinoma of lung
+C0030193	has_name	pain nos
+C0030193	has_name	pains
+C0030193	has_name	pain observations
+C0030193	has_name	dolor
+C0030193	has_name	sense of pain
+C0030193	has_name	pain finding (finding)
+C0030193	has_name	pain symptoms
+C0030193	has_name	pain, nos
+C0030193	has_name	pain, unspecified
+C0030193	has_name	unspecified pain
+C0030193	has_name	pain
+C0030193	has_name	part hurts
+C0030193	has_name	pain (finding)
+C0030193	has_name	painful
+C0030193	has_name	pain finding
+C0030193	has_name	ache
+C0475387	has_name	t2a primary tumor finding
+C0475387	has_name	t2a tnm finding
+C0475387	has_name	t2a stage
+C0475387	has_name	t2a stage finding
+C0475387	has_name	t2a cancer stage finding
+C0475387	has_name	tumor stage t2a (tumor staging)
+C0475387	has_name	t2a tumor stage
+C0475387	has_name	tumour stage t2a
+C0475387	has_name	tumor stage t2a (finding)
+C0475387	has_name	t2a primary tumor stage finding
+C0475387	has_name	t2a
+C0475387	has_name	t2a tumor finding
+C0475387	has_name	tumor stage t2a
+C3178775	has_name	radiochemotherapies, concomitant
+C3178775	has_name	concurrent chemoradiotherapy
+C3178775	has_name	synchronous chemoradiotherapies
+C3178775	has_name	concomitant radiochemotherapy
+C3178775	has_name	concurrent radiochemotherapies
+C3178775	has_name	concomitant radiochemotherapies
+C3178775	has_name	radiochemotherapies, concurrent
+C3178775	has_name	radiochemotherapy, concurrent
+C3178775	has_name	chemoradiotherapies, concomitant
+C3178775	has_name	chemoradiotherapy, concurrent
+C3178775	has_name	chemoradiotherapies, concurrent
+C3178775	has_name	chemoradiotherapy, concomitant
+C3178775	has_name	concurrent chemoradiotherapies
+C3178775	has_name	chemoradiotherapy, synchronous
+C3178775	has_name	synchronous chemoradiotherapy
+C3178775	has_name	concurrent radiochemotherapy
+C3178775	has_name	concomitant chemoradiotherapies
+C3178775	has_name	chemoradiotherapies, synchronous
+C3178775	has_name	radiochemotherapy, concomitant
+C3178775	has_name	concomitant chemoradiotherapy
+C0010200	has_name	observation of cough
+C0010200	has_name	finding of cough
+C0010200	has_name	complaining of cough (finding)
+C0010200	has_name	cough, nos
+C0010200	has_name	coughing - function (qualifier value)
+C0010200	has_name	[d]cough
+C0010200	has_name	coughing symptom
+C0010200	has_name	coughs
+C0010200	has_name	cough symptom
+C0010200	has_name	c/o - cough
+C0010200	has_name	cough symptom nos
+C0010200	has_name	[d]cough (situation)
+C0010200	has_name	cough (finding)
+C0010200	has_name	[d]cough (context-dependent category)
+C0010200	has_name	cough symptom nos (finding)
+C0010200	has_name	complaining of cough
+C0010200	has_name	coughing - function
+C0010200	has_name	cough
+C0010200	has_name	c/o - cough (context-dependent category)
+C0010200	has_name	finding of cough (finding)
+C0010200	has_name	coughing (observable entity)
+C0010200	has_name	coughing
+C0010200	has_name	cough symptoms
+C0425298	has_name	very heavy cigarette smoker (40+ cigs/day)
+C0425298	has_name	very heavy cigarette smoker (40+ cigs/day) (life style)
+C0425298	has_name	very heavy cigarette smoker (40+ cigs/day) (finding)
+C0001418	has_name	adenocarcinoma, malignant
+C0001418	has_name	[m]adenocarcinomas
+C0001418	has_name	malignant adenomatous neoplasm (disorder)
+C0001418	has_name	adenocarcinoma nos
+C0001418	has_name	adenomas, malignant
+C0001418	has_name	adenocarcinoma, nos
+C0001418	has_name	adenocarcinoma, no subtype
+C0001418	has_name	malignant adenomas
+C0001418	has_name	adenocarcinoma, no subtype (morphologic abnormality)
+C0001418	has_name	[m]adenocarcinoma nos (morphologic abnormality)
+C0001418	has_name	adenocarcinomas
+C0001418	has_name	adenocarcinoma
+C0001418	has_name	adenoma, malignant
+C0001418	has_name	malignant adenomatous neoplasm
+C0001418	has_name	malignant adenoma
+C0001418	has_name	[m]adenocarcinoma nos
+C0348026	has_name	diagnostic - intent
+C0348026	has_name	diagnostic
+C0348026	has_name	diag
+C0348026	has_name	diagnostic - procedure intent (qualifier value)
+C0348026	has_name	diagnostic intent (qualifier value)
+C0348026	has_name	diagnostic intent
+C3830342	has_name	4: bed-ridden
+C3830342	has_name	4
+C3830342	has_name	ecog 4
+C3830342	has_name	ecog performance status 4
+C0019079	has_name	[d]hemoptysis nos (situation)
+C0019079	has_name	haemoptysis - symptom
+C0019079	has_name	blood streaked sputum (finding)
+C0019079	has_name	hemoptysis
+C0019079	has_name	bloody sputum
+C0019079	has_name	cough up blood
+C0019079	has_name	blood spit up
+C0019079	has_name	[d]hemoptysis (context-dependent category)
+C0019079	has_name	blood coughed
+C0019079	has_name	spit up blood
+C0019079	has_name	coughing and spitting blood
+C0019079	has_name	expectoration of bloody sputum
+C0019079	has_name	blood streaked sputum
+C0019079	has_name	expectoration of hemorrhagic sputum
+C0019079	has_name	sputum bloody
+C0019079	has_name	blood in sputum - haemoptysis [& symptom]
+C0019079	has_name	blood in sputum - hemoptysis [& symptom]
+C0019079	has_name	blood in sputum - haemoptysis (finding)
+C0019079	has_name	[d]hemoptysis nos (context-dependent category)
+C0019079	has_name	spitting up blood
+C0019079	has_name	hemoptysis, unspecified
+C0019079	has_name	expectoration of blood streaked sputum
+C0019079	has_name	blood in sputum - haemoptysis
+C0019079	has_name	[d]hemoptysis nos
+C0019079	has_name	hemoptysis nos
+C0019079	has_name	hemoptysis - symptom
+C0019079	has_name	blood in sputum - symptom
+C0019079	has_name	hemoptysis (finding)
+C0019079	has_name	blood in sputum - hemoptysis (finding)
+C0019079	has_name	[d]haemoptysis
+C0019079	has_name	blood in sputum-symptom
+C0019079	has_name	[d]haemoptysis nos (situation)
+C0019079	has_name	hemoptysis (disorder)
+C0019079	has_name	spitting (up) blood
+C0019079	has_name	coughing up blood
+C0019079	has_name	blood in sputum - hemoptysis
+C0019079	has_name	hemoptyses
+C0019079	has_name	[d]hemoptysis
+C0019079	has_name	[d]haemoptysis nos
+C0019079	has_name	sputum + blood-symptom
+C0019079	has_name	blood spitting up
+C0019079	has_name	[d]hemoptysis (situation)
+C0019079	has_name	blood in sputum - haemoptysis [& symptom] (finding)
+C0019079	has_name	coughing blood
+C0019079	has_name	haemoptysis
+C0019079	has_name	[d]haemoptysis (situation)
+C0086582	has_name	male sex
+C0086582	has_name	human, male
+C0086582	has_name	males
+C0086582	has_name	m
+C0086582	has_name	male (finding)
+C0086582	has_name	male gender
+C0086582	has_name	human male
+C0086582	has_name	male, nos
+C0086582	has_name	male individual
+C0086582	has_name	man
+C0086582	has_name	male structure (body structure)
+C0086582	has_name	sex male
+C0086582	has_name	male individual, nos
+C0086582	has_name	male structure
+C0086582	has_name	male
+C0086582	has_name	human males
+C0678222	has_name	cancer of the breast
+C0678222	has_name	carcinoma of breast (disorder)
+C0678222	has_name	carcinoma of breast nos
+C0678222	has_name	breast cancer, nos
+C0678222	has_name	carcinoma of the breast
+C0678222	has_name	mammary carcinoma
+C0678222	has_name	cancer, breast
+C0678222	has_name	breast cancer, carcinoma
+C0678222	has_name	carcinoma of breast nos (disorder)
+C0678222	has_name	carcinoma breast
+C0678222	has_name	carcinomas, breast
+C0678222	has_name	breast, carcinoma
+C0678222	has_name	carcinoma, breast
+C0678222	has_name	breast cancer diagnosis
+C0678222	has_name	breast carcinoma
+C0678222	has_name	ca - carcinoma of breast
+C0678222	has_name	breast carcinomas
+C0678222	has_name	carcinoma of breast
+C0678222	has_name	breast cancer
+C0678222	has_name	cancer of breast
+C0206704	has_name	large cell carcinoma
+C0206704	has_name	large cell carcinoma, nos
+C0206704	has_name	carcinoma, large cell
+C0206704	has_name	[m]large cell carcinoma nos (morphologic abnormality)
+C0206704	has_name	large cell carcinomas
+C0206704	has_name	large cell carcinoma (morphologic abnormality)
+C0206704	has_name	cell carcinomas, large
+C0206704	has_name	[m]large cell carcinoma nos
+C0206704	has_name	cell carcinoma, large
+C0206704	has_name	carcinomas, large cell
+C1513712	has_name	mucinous
+C2360140	has_name	total population of age 75-79y
+C0023418	has_name	subacute leukemia [obs]
+C0023418	has_name	leucocythemia
+C0023418	has_name	leukaemia of unspecified cell type (disorder)
+C0023418	has_name	leukaemia, disease
+C0023418	has_name	unspecified leukemia
+C0023418	has_name	[m]leukemia nos (morphologic abnormality)
+C0023418	has_name	leukemia of unspecified cell type (disorder)
+C0023418	has_name	[m]leukemias unspecified
+C0023418	has_name	leukemias, general
+C0023418	has_name	leucocythemias
+C0023418	has_name	leukaemia nos
+C0023418	has_name	leukemia, no icd-o subtype (morphologic abnormality)
+C0023418	has_name	leukemia, unspecified
+C0023418	has_name	types leukemia
+C0023418	has_name	leukemias
+C0023418	has_name	leukemias types
+C0023418	has_name	aleukemic leukemia [obs]
+C0023418	has_name	[m]leukemia unspecified, nos
+C0023418	has_name	leukemia
+C0023418	has_name	leukemia, disease (disorder)
+C0023418	has_name	leukaemia, nos
+C0023418	has_name	leukaemia of unspecified cell type
+C0023418	has_name	leukemia, no international classification of diseases for oncology subtype (morphologic abnormality)
+C0023418	has_name	leukemia, nos, without mention of remission
+C0023418	has_name	[m]leukaemia nos (disorder)
+C0023418	has_name	leukemia, nos
+C0023418	has_name	[m]leukaemias unspecified
+C0023418	has_name	leukemia nos
+C0023418	has_name	[m]leukemia unspecified, nos (morphologic abnormality)
+C0023418	has_name	chronic leukaemia [obs]
+C0023418	has_name	[m]leukaemia nos
+C0023418	has_name	type leukemia
+C0023418	has_name	leucocythaemia
+C0023418	has_name	leukemia of unspecified cell type
+C0023418	has_name	leukemia (disorder)
+C0023418	has_name	leucocythaemias
+C0023418	has_name	leukemia, malignant
+C0023418	has_name	[m]leukemias unspecified (morphologic abnormality)
+C0023418	has_name	aleukaemic leukaemia [obs]
+C0023418	has_name	leukemia nos (disorder)
+C0023418	has_name	[m]leukaemia unspecified, nos
+C0023418	has_name	leukaemia morphology
+C0023418	has_name	chronic leukemia [obs]
+C0023418	has_name	leukemia types
+C0023418	has_name	leukemia, disease
+C0023418	has_name	leukaemia, nos, without mention of remission
+C0023418	has_name	leukaemia
+C0023418	has_name	subacute leukaemia [obs]
+C0023418	has_name	leukaemia, unspecified
+C0023418	has_name	leukemia, no icd-o subtype
+C0023418	has_name	[m]leukemia nos
+C0023418	has_name	leukemia, morphology (morphologic abnormality)
+C0023418	has_name	blood (leukemia)
+C0023418	has_name	leukaemia, no icd-o subtype
+C0023418	has_name	leukemia morphology
+C0023418	has_name	leukemia, no international classification of diseases for oncology subtype
+C0023418	has_name	leukaemias
+C0023418	has_name	leukemia type
+C0023418	has_name	all types of leukemia
+C3830344	has_name	ecog performance status 2
+C3830344	has_name	2: symptomatic, in bed less than 50% of day
+C3830344	has_name	ecog 2
+C3830344	has_name	2
+C0441959	has_name	n0 node stage
+C0441959	has_name	n0 stage
+C0441959	has_name	no
+C0441959	has_name	n0 stage (tumor staging)
+C0441959	has_name	n0 category (finding)
+C0441959	has_name	lymph node stage n0
+C0441959	has_name	n0
+C0441959	has_name	n0 lymph node finding
+C0441959	has_name	node stage n0 (tumor staging)
+C0441959	has_name	n0 regional lymph nodes finding
+C0441959	has_name	n0 tnm finding
+C0441959	has_name	n0 cancer stage finding
+C0441959	has_name	n0 stage (finding)
+C0441959	has_name	n0 stage finding
+C0441959	has_name	node stage n0
+C0441959	has_name	n0 lymph node stage
+C0441959	has_name	n0 regional lymph node stage finding
+C0441959	has_name	n0 category
+C0441959	has_name	n0 node finding
+C0205851	has_name	neopl germ cell
+C0205851	has_name	cells germ tumors
+C0205851	has_name	germ cell neoplasm (morphologic abnormality)
+C0205851	has_name	tumors, germ cell
+C0205851	has_name	tumor of the germ cell
+C0205851	has_name	neoplasms, germ cell
+C0205851	has_name	germ cell tumor
+C0205851	has_name	[m]germ cell neoplasm nos
+C0205851	has_name	tumor, germ cell
+C0205851	has_name	germ cell tumor, nos
+C0205851	has_name	germ cell neoplasms
+C0205851	has_name	neoplasm of the germ cell
+C0205851	has_name	germ cell tumor (disorder)
+C0205851	has_name	germ cell tumour (disorder)
+C0205851	has_name	neoplasm of germ cell
+C0205851	has_name	tumor of germ cell
+C0205851	has_name	germ cell neopl
+C0205851	has_name	germ cell tumour
+C0205851	has_name	[m]germ cell neoplasms (morphologic abnormality)
+C0205851	has_name	germ cell neoplasm
+C0205851	has_name	cell germ tumours
+C0205851	has_name	[m]germ cell neoplasm nos (morphologic abnormality)
+C0205851	has_name	[m]germ cell neoplasms
+C0205851	has_name	germ cell tumors
+C4049711	has_name	lepidic predominant lung adenocarcinoma
+C4049711	has_name	lepidic predominant adenocarcinoma
+C4049711	has_name	lpa
+C0520679	has_name	syndrome, obstructive sleep apnea
+C0520679	has_name	osa
+C0520679	has_name	apnea obstructive sleeping
+C0520679	has_name	obstructive sleep apnoea (disorder)
+C0520679	has_name	obstructive sleep apnea (adult) (pediatric)
+C0520679	has_name	sleep apnoea (& [obstructive])
+C0520679	has_name	obstructive sleep apnea (adult)(pediatric)
+C0520679	has_name	syndrome, sleep apnea, obstructive
+C0520679	has_name	sleep apnea/hypopnea syndrome
+C0520679	has_name	obstructive sleep apneas
+C0520679	has_name	obstructive sleep apnea
+C0520679	has_name	obstructive sleep apnoea syndrome
+C0520679	has_name	obstructive sleep apnea syndrome (disorder)
+C0520679	has_name	obstructive apnea
+C0520679	has_name	sleep apneas, obstructive
+C0520679	has_name	sleep apnea (& [obstructive])
+C0520679	has_name	apnea, obstructive sleep
+C0520679	has_name	sleep apnea, obstructive
+C0520679	has_name	osa - obstructive sleep apnea
+C0520679	has_name	osas
+C0520679	has_name	obstructive sleep osa apnea
+C0520679	has_name	apnea obstructive sleep
+C0520679	has_name	obstructive sleep apnoea
+C0520679	has_name	apnea, obstructive
+C0520679	has_name	obstructive sleep apnea syndrome
+C0520679	has_name	sahs
+C0520679	has_name	osa - obstructive sleep apnoea
+C0520679	has_name	osahs
+C0520679	has_name	sleep apnoea (& [obstructive]) (disorder)
+C0520679	has_name	apneas, obstructive sleep
+C0520679	has_name	sleep apnea syndrome, obstructive
+C0520679	has_name	sleep apnea hypopnea syndrome
+C0520679	has_name	sleep apnea obstructive syndrome
+C4528155	has_name	age greater than 85 years
+C4528155	has_name	age > 85
+C0699893	has_name	non-melanoma cancer of skin
+C0699893	has_name	carcinoma of skin
+C0699893	has_name	skin carcinoma
+C0699893	has_name	non-melanoma skin cancer
+C0699893	has_name	non-melanoma cancer of the skin
+C0699893	has_name	skin cancer (non-melanoma)
+C0699893	has_name	cancers nonmelanoma skin
+C0699893	has_name	cancer nonmelanoma skin
+C0699893	has_name	nonmelanoma skin cancer
+C0699893	has_name	carcinomas skin
+C0699893	has_name	carcinoma of the skin
+C0699893	has_name	carcinoma skin
+C0699893	has_name	skin cancer, non-melanoma
+C0024121	has_name	neopl pulm
+C0024121	has_name	lung tumour
+C0024121	has_name	lungs--tumors
+C0024121	has_name	lung tumor
+C0024121	has_name	neoplasms, lung
+C0024121	has_name	neoplasms, pulmonary
+C0024121	has_name	neopl lung
+C0024121	has_name	pulm neopl
+C0024121	has_name	neoplasm of the lung
+C0024121	has_name	pulmonary neoplasia
+C0024121	has_name	tumor of the lung
+C0024121	has_name	neoplasm of lung (disorder)
+C0024121	has_name	tumor of lung
+C0024121	has_name	neoplasm, pulmonary
+C0024121	has_name	pulmonary neoplasms
+C0024121	has_name	neoplasm, lung
+C0024121	has_name	lung neoplasms
+C0024121	has_name	lung neopl
+C0024121	has_name	neoplasm of lung
+C0024121	has_name	lung tumors
+C0024121	has_name	tumour of lung
+C0024121	has_name	lung neoplasm
+C0024121	has_name	lung tumours
+C0024121	has_name	pulmonary neoplasm
+C1997353	has_name	radiotherapy to head (procedure)
+C1997353	has_name	radiotherapy to head
+C1824685	has_name	cdca7l gene
+C1824685	has_name	cell division cycle-associated protein 7-like
+C1824685	has_name	cell division cycle associated 7 like
+C1824685	has_name	jpo2
+C1824685	has_name	r1
+C1824685	has_name	cdca7l
+C1824685	has_name	cdca7-like
+C1824685	has_name	ram2
+C0042373	has_name	blood vessel disorder
+C0042373	has_name	vascular disease (disorder)
+C0042373	has_name	blood-vessels--diseases
+C0042373	has_name	vascular problem, nos
+C0042373	has_name	vasculopathy
+C0042373	has_name	vascular disorder
+C0042373	has_name	disorder vascular
+C0042373	has_name	disorder of blood vessel (disorder)
+C0042373	has_name	vascular problem
+C0042373	has_name	vascular disorder, nos
+C0042373	has_name	disease, vascular
+C0042373	has_name	vascular disease
+C0042373	has_name	vascular diseases
+C0042373	has_name	angiopathy
+C0042373	has_name	diseases, vascular
+C0042373	has_name	disorder of blood vessel
+C0042373	has_name	vascular disorders
+C0042373	has_name	blood vessel disease
+C0042373	has_name	angiopathy, nos
+C0042373	has_name	vascular disease, nos
+C0042373	has_name	vascular dis
+C0024299	has_name	malignant lymphoma
+C0024299	has_name	lymphoma (hodgkin and non-hodgkin)
+C0024299	has_name	lymphoma (hodgkin's and non-hodgkin's)
+C0024299	has_name	lymphoma, nos
+C0024299	has_name	lymphoma malignant
+C0024299	has_name	lymphoma
+C0024299	has_name	lymphoma morphology (morphologic abnormality)
+C0024299	has_name	germinoblastic sarcoma
+C0024299	has_name	malignant lymphoma (clinical)
+C0024299	has_name	malignant lymphoma - category (morphologic abnormality)
+C0024299	has_name	malignant lymphoma, no international classification of diseases for oncology subtype (morphologic abnormality)
+C0024299	has_name	reticulolymphosarcomas
+C0024299	has_name	malignant lymphoma, no icd-o subtype
+C0024299	has_name	lymphosarcoma
+C0024299	has_name	malignant lymphoma nos of unspecified site (disorder)
+C0024299	has_name	malignant lymphoma (category)
+C0024299	has_name	malignant lymphoma - category
+C0024299	has_name	sarcoma, germinoblastic
+C0024299	has_name	germinoblastoma
+C0024299	has_name	sarcomas, germinoblastic
+C0024299	has_name	reticulolymphosarcoma
+C0024299	has_name	malignant lymphoma, nos
+C0024299	has_name	lymphoma, malignant
+C0024299	has_name	germinoblastomas
+C0024299	has_name	malignant lymphoma, no icd-o subtype (morphologic abnormality)
+C0024299	has_name	[m]malignant lymphoma nos (disorder)
+C0024299	has_name	malignant lymphoma nos (disorder)
+C0024299	has_name	germinoblastic sarcomas
+C0024299	has_name	malignant lymphoma, no international classification of diseases for oncology subtype
+C0024299	has_name	cancer of lymphatic system
+C0024299	has_name	[m]reticulolymphosarcoma nos
+C0024299	has_name	lymphomas malignant
+C0024299	has_name	lymphomas
+C0024299	has_name	malignant lymphomas
+C0024299	has_name	malignant lymphoma nos of unspecified site
+C0024299	has_name	[m]malignant lymphoma nos
+C0024299	has_name	malignant lymphoma nos
+C0024299	has_name	malignant lymphoma (disorder)
+C0024299	has_name	lymphomatous
+C0024299	has_name	lymphoma nos
+C0024299	has_name	lymphoma morphology
+C0024299	has_name	lymphoma (clinical)
+C0024299	has_name	lymphomas, malignant
+C0001675	has_name	adult (person)
+C0001675	has_name	adult (qualifier value)
+C0001675	has_name	21 old year
+C0001675	has_name	human, adult
+C0001675	has_name	21 year old
+C0001675	has_name	adult
+C0001675	has_name	21+ years old
+C0001675	has_name	adults
+C0001675	has_name	adult human (21+)
+C2360142	has_name	total population of age 80-84y
+C3839414	has_name	combined chemotherapy and radiation therapy (procedure)
+C3839414	has_name	combined chemotherapy and radiation therapy
+C0441960	has_name	n2 stage
+C0441960	has_name	n2 regional lymph nodes finding
+C0441960	has_name	n2 lymph node stage
+C0441960	has_name	n2 node stage
+C0441960	has_name	n2 category
+C0441960	has_name	node stage n2
+C0441960	has_name	node stage n2 (tumor staging)
+C0441960	has_name	n2 tnm finding
+C0441960	has_name	lymph node stage n2
+C0441960	has_name	n2 regional lymph node stage finding
+C0441960	has_name	n2
+C0441960	has_name	n2 stage (tumor staging)
+C0441960	has_name	n2 stage finding
+C0441960	has_name	n2 node finding
+C0441960	has_name	n2 stage (finding)
+C0441960	has_name	n2 lymph node finding
+C0441960	has_name	n2 cancer stage finding
+C0441960	has_name	n2 category (finding)
+C0001973	has_name	alcohol abuse alcoholism
+C0001973	has_name	alcohol dependence syndrome
+C0001973	has_name	chronic alcoholic intoxication
+C0001973	has_name	alcoholism, nos
+C0001973	has_name	mental and behavioural disorders due to use of alcohol, dependence syndrome
+C0001973	has_name	alcoholism chronic disorders
+C0001973	has_name	persistent alcohol abuse (disorder)
+C0001973	has_name	chronic alcoholism [ambiguous]
+C0001973	has_name	alcohol problem drinking
+C0001973	has_name	unspecified chronic alcoholism
+C0001973	has_name	dependence, alcohol
+C0001973	has_name	alcoholism chronic
+C0001973	has_name	unspecified chronic alcoholism (disorder)
+C0001973	has_name	alcohol dependence
+C0001973	has_name	[x]mental and behavioural disorders due to use of alcohol: dependence syndrome
+C0001973	has_name	alcoholic intoxication, chronic
+C0001973	has_name	alcohol dependence syndrome (& [dipsomania]) (disorder)
+C0001973	has_name	chronic alcoholism nos
+C0001973	has_name	(alcohol dependence syndrome [including alcoholism]) or (alcohol problem drinking) (disorder)
+C0001973	has_name	alcoholism and alcohol abuse
+C0001973	has_name	alcohol dependence syndrome nos
+C0001973	has_name	intoxication, chronic alcoholic
+C0001973	has_name	chronic alcohol abuse
+C0001973	has_name	[x]mental and behavioral disorders due to use of alcohol: dependence syndrome
+C0001973	has_name	alcohol dependence syndrome (& [dipsomania])
+C0001973	has_name	addiction alcohol
+C0001973	has_name	alcoholism/alcohol abuse
+C0001973	has_name	alcoholism disorders
+C0001973	has_name	alcoholic intox chronic
+C0001973	has_name	alcohol dependence (disorder)
+C0001973	has_name	chronic alcoholism (disorder)
+C0001973	has_name	[x]mental and behavioral disorders due to use of alcohol: dependence syndrome (disorder)
+C0001973	has_name	alcohol dependency
+C0001973	has_name	alcohol dependences
+C0001973	has_name	alcoholism
+C0001973	has_name	dipsomania
+C0001973	has_name	mental and behavioral disorders due to use of alcohol, dependence syndrome
+C0001973	has_name	dependence alcoholism alcohol
+C0001973	has_name	addiction, alcohol
+C0001973	has_name	[x]chronic alcoholism
+C0001973	has_name	alcohol dependence syndrome nos (disorder)
+C0001973	has_name	chronic alcoholism nos (disorder)
+C0001973	has_name	chronic alcoholism
+C0001973	has_name	[x]dipsomania
+C0001973	has_name	alcoholisms
+C0001973	has_name	disorder alcoholism
+C0001973	has_name	alcohol addiction
+C0001973	has_name	persistent alcohol abuse
+C0001973	has_name	dipsomania (finding)
+C0001973	has_name	chronic alcoholism (& [dipsomania]) (disorder)
+C0001973	has_name	[x]alcohol addiction
+C0001973	has_name	abuse alcohol alcoholism
+C0001973	has_name	(alcohol dependence syndrome [including alcoholism]) or (alcohol problem drinking)
+C0001973	has_name	alcoholism (disorder)
+C0001973	has_name	chronic alcoholism (& [dipsomania])
+C4511808	has_name	lobectomy of lower lobe of right lung (procedure)
+C4511808	has_name	lobectomy of lower lobe of right lung
+C4281161	has_name	cigarette smoker (5-9 cigarettes/day) (finding)
+C4281161	has_name	cigarette smoker (5-9 cigarettes/day)
+C1290608	has_name	micropapilla
+C1290608	has_name	micropapilla (disorder)
+C1290608	has_name	pseudohypoplasia of the optic nerve
+C0699753	has_name	cancer relapse
+C0699753	has_name	cancer--relapse
+C0242339	has_name	dyslipidemia
+C0242339	has_name	dyslipidemias
+C0242339	has_name	dyslipidaemia
+C0242339	has_name	high blood cholesterol/triglycerides
+C0242339	has_name	dyslipidemia (disorder)
+C0152463	has_name	pleurectomy
+C0152463	has_name	pleurectomy, nos
+C0152463	has_name	excision of pleura, nos
+C0152463	has_name	excision of pleura
+C0152463	has_name	pleurectomy (procedure)
+C0152463	has_name	excision of pleura (procedure)
+C4763675	has_name	single agent therapy
+C4763675	has_name	single agent treatment
+C4763675	has_name	monotherapy
+C0684249	has_name	of lung carcinoma
+C0684249	has_name	carcinoma of lung
+C0684249	has_name	carcinoma lung
+C0684249	has_name	lung carcinoma
+C0684249	has_name	pulmonary carcinoma
+C0684249	has_name	cancer of lung
+C0684249	has_name	lung cancer
+C0684249	has_name	carcinomas lung
+C0684249	has_name	carcinoma of the lung
+C0684249	has_name	lung cancer, nos
+C0684249	has_name	cancer of the lung
+C0684249	has_name	carcinoma lungs
+C0175759	has_name	exploratory thoracotomy
+C0175759	has_name	exploratory thoracotomy (procedure)
+C0337668	has_name	moderate smoker (20 or less per day) (finding)
+C0337668	has_name	moderate smoker (20 or less per day)
+C0337668	has_name	moderate smoker (20 or less per day) (life style)
+C0425309	has_name	involuntary smoker
+C0425309	has_name	passive smoker (finding)
+C0425309	has_name	passive smoker
+C0425309	has_name	ets - exposed to tobacco smoke
+C0425309	has_name	exposed to environmental tobacco smoke
+C0425309	has_name	exposed to second hand tobacco smoke
+C0425309	has_name	exposed to tobacco smoke
+C0013404	has_name	shortness of breath symptom
+C0013404	has_name	respiration difficult
+C0013404	has_name	[d]breathlessness
+C0013404	has_name	breathlessness
+C0013404	has_name	dyspnea, unspecified
+C0013404	has_name	[d]dyspnoea
+C0013404	has_name	[d]dyspnoea (situation)
+C0013404	has_name	dyspnea, nos
+C0013404	has_name	sob (shortness of breath)
+C0013404	has_name	dyspnea
+C0013404	has_name	breathlessnesses
+C0013404	has_name	[d]dyspnea (situation)
+C0013404	has_name	dib - difficulty in breathing
+C0013404	has_name	difficulty breathing (finding)
+C0013404	has_name	tightness of breath
+C0013404	has_name	[d]breathlessness (context-dependent category)
+C0013404	has_name	[d]shortness of breath (situation)
+C0013404	has_name	respiratory difficulties
+C0013404	has_name	dyspneas
+C0013404	has_name	respiratory difficulty
+C0013404	has_name	[d]breathlessness (situation)
+C0013404	has_name	dyspnea - symptom
+C0013404	has_name	shortness of breath
+C0013404	has_name	dyspnoea
+C0013404	has_name	difficulty breathing [ambiguous]
+C0013404	has_name	dyspnoea (finding)
+C0013404	has_name	(symptom: [sob] or [breathlessness] or [dyspnoea]) or (breathlessness)
+C0013404	has_name	[d]dyspnea (context-dependent category)
+C0013404	has_name	dyspnoea, nos
+C0013404	has_name	breathing difficulty
+C0013404	has_name	breathing difficult
+C0013404	has_name	breath shortnesses
+C0013404	has_name	s.o.b.
+C0013404	has_name	short of breath symptom
+C0013404	has_name	sob
+C0013404	has_name	trouble breathing
+C0013404	has_name	(symptom: [sob] or [breathlessness] or [dyspnea]) or (breathlessness)
+C0013404	has_name	[d]dyspnea
+C0013404	has_name	shortness of breath (sob)
+C0013404	has_name	breathlessness nos
+C0013404	has_name	short of breath
+C0013404	has_name	(symptom: [sob] or [breathlessness] or [dyspnoea]) or (breathlessness) (finding)
+C0013404	has_name	dyspnea (finding)
+C0013404	has_name	[d]shortness of breath (context-dependent category)
+C0013404	has_name	shortness of breath dyspnea
+C0013404	has_name	breathlessness nos (finding)
+C0013404	has_name	breathing difficulties
+C0013404	has_name	dyspnea (finding) [ambiguous]
+C0013404	has_name	breathless
+C0013404	has_name	breathing shortness
+C0013404	has_name	breathlessness symptom
+C0013404	has_name	dyspnoea - symptom
+C0013404	has_name	[d]shortness of breath
+C0013404	has_name	difficulty breathing
+C0013404	has_name	difficult breathing
+C0013404	has_name	sob - shortness of breath
+C0013404	has_name	breath shortness
+C1705294	has_name	sequential
+C2827748	has_name	r2
+C2827748	has_name	coefficient of determination
+C2827748	has_name	r squared
+C0231221	has_name	absence of symptoms
+C0231221	has_name	asymptomatic
+C0231221	has_name	asymptomatic (finding)
+C0231221	has_name	symptomless
+C0231221	has_name	no symptoms
+C0023895	has_name	liver disorders
+C0023895	has_name	liver dis
+C0023895	has_name	liver
+C0023895	has_name	disease hepatocellular
+C0023895	has_name	hepatic disorders
+C0023895	has_name	disease, liver
+C0023895	has_name	ld - liver disease
+C0023895	has_name	liver--diseases
+C0023895	has_name	disorder hepatic
+C0023895	has_name	liver diseases
+C0023895	has_name	liver disease, nos
+C0023895	has_name	liver disorder
+C0023895	has_name	diseases of the liver
+C0023895	has_name	diseases of liver
+C0023895	has_name	hepatic disorder (nos)
+C0023895	has_name	diseases, liver
+C0023895	has_name	diseases of liver (k70-k77)
+C0023895	has_name	hepatic diseases
+C0023895	has_name	disorder liver
+C0023895	has_name	hepatic disorder
+C0023895	has_name	disease of liver
+C0023895	has_name	disease of liver (disorder)
+C0023895	has_name	liver disorder nos
+C0023895	has_name	unspecified disorder of liver
+C0023895	has_name	liver diseases of
+C0023895	has_name	disorder of liver
+C0023895	has_name	hepatopathy
+C0023895	has_name	hepatic disease
+C0023895	has_name	disorder of liver (disorder)
+C0023895	has_name	liver disease
+C0023895	has_name	hepatic disease (nos)
+C0023895	has_name	liver disease, unspecified
+C0023895	has_name	hepatic: hepatocellular
+C0023895	has_name	[x]diseases of the liver
+C0023895	has_name	[x]diseases of the liver (disorder)
+C0023895	has_name	disease of liver [ambiguous]
+C0023895	has_name	disease of liver, nos
+C0023895	has_name	hepatocellular disease
+C0023895	has_name	liver disorder nos (disorder)
+C0023895	has_name	liver and intrahepatic bile duct disorder
+C0023895	has_name	fector hepaticus
+C1336167	has_name	stage iia non-oat cell carcinoma of lung
+C1336167	has_name	stage iia non-small cell carcinoma of lung
+C1336167	has_name	stage iia lung non-small cell carcinoma ajcc v7
+C1336167	has_name	stage iia non-small cell lung carcinoma
+C1336167	has_name	stage iia non-small cell lung carcinoma ajcc v7
+C1336167	has_name	stage iia non-small cell lung cancer
+C1336167	has_name	stage iia non-oat cell lung carcinoma
+C1336167	has_name	stage iia non-small cell carcinoma of the lung
+C1336167	has_name	stage iia non-oat cell carcinoma of the lung
