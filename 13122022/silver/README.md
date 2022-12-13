@@ -4,4 +4,7 @@ The script `filter-silver.py` acquires a list of predictions from `predictions.l
 - Involve at least one of the CUIs shared by Adrianna (available in `umls_concepts_v2.csv`), and
 - Has a probability of at least 0.5.
 
-The resulting predictions are then saved in `silver_triples.tsv`.
+The resulting predictions are then saved in `silver_triples.tsv`, which contains:
+- The subject of the relationship (`CUI1` in `MRREL.RRF`, see [here](https://www.ncbi.nlm.nih.gov/books/NBK9685/table/ch03.T.related_concepts_file_mrrel_rrf/?report=objectonly)),
+- Specific relationship label (`RELA` in `MRREL.RRF`, see [here](https://www.ncbi.nlm.nih.gov/books/NBK9685/table/ch03.T.related_concepts_file_mrrel_rrf/?report=objectonly)),
+- The object of the relationship (`CUI2` in `MRREL.RRF`, see [here](https://www.ncbi.nlm.nih.gov/books/NBK9685/table/ch03.T.related_concepts_file_mrrel_rrf/?report=objectonly)).
